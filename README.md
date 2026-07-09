@@ -145,9 +145,9 @@ SkillSwap is a modern web application where users can exchange skills, discover 
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=Siam-AR&theme=github-dark&hide_border=true" width="75%" />
+<!-- <img src="https://streak-stats.demolab.com?user=Siam-AR&theme=github-dark&hide_border=true" width="75%" /> -->
 
-<br><br>
+<!-- <br><br> -->
 
 <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Siam-AR&theme=github-dark&hide_border=true" width="100%" /> -->
 
