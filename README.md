@@ -23,7 +23,7 @@
       <p>I'm <b>Siam Al Rabbi</b>, a Computer Science &amp; Engineering student and Full-Stack Developer passionate about scalable web architectures, responsive interfaces, and robust systems.</p>
       <h4>⚡ Quick Facts</h4>
       <ul>
-        <li>🔭 <b>Building:</b> <code>SkillSwap</code> — Full-stack skill platform</li>
+        <li>🔭 <b>Building:</b> <code>SkillSwap</code> — Full-Stack Freelance Skill Exchange Platform</li>
         <li>🌱 <b>Learning:</b> Deep Learning, AI integrations &amp; System Design</li>
         <li>💬 <b>Ask Me:</b> React, Next.js, Node.js, Express, MongoDB, TypeScript</li>
         <li>🤝 <b>Looking to Collaborate:</b> High-impact full-stack web apps</li>
@@ -33,7 +33,7 @@
       </ul>
     </td>
     <td width="40%" align="center" valign="middle">
-      <img width="100%" alt="coding-vibe" src="https://github.com/user-attachments/assets/146591bd-16d0-4aab-9536-333775104e6f" />
+      <img width="100%" height="100%"alt="coding-vibe" src="https://github.com/user-attachments/assets/146591bd-16d0-4aab-9536-333775104e6f" />
     </td>
   </tr>
 </table>
