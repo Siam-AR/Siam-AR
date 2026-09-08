@@ -1,0 +1,357 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1300 400" width="100%" height="100%">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#020f0c" />
+      <stop offset="20%" stop-color="#031613" />
+      <stop offset="50%" stop-color="#072b26" />
+      <stop offset="80%" stop-color="#031613" />
+      <stop offset="100%" stop-color="#020f0c" />
+    </linearGradient>
+
+    <!-- Speed Lines Fade Gradients -->
+    <linearGradient id="laserFadeLeft" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2de370" stop-opacity="0.9" />
+      <stop offset="70%" stop-color="#39ff14" stop-opacity="0.6" />
+      <stop offset="100%" stop-color="#80ffb4" stop-opacity="0" />
+    </linearGradient>
+
+    <linearGradient id="laserFadeRight" x1="100%" y1="0%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#2de370" stop-opacity="0.9" />
+      <stop offset="70%" stop-color="#39ff14" stop-opacity="0.6" />
+      <stop offset="100%" stop-color="#80ffb4" stop-opacity="0" />
+    </linearGradient>
+
+    <!-- Glow Filters -->
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="5" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <filter id="superGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="8" result="blur1" />
+      <feGaussianBlur stdDeviation="3" result="blur2" />
+      <feMerge>
+        <feMergeNode in="blur1" />
+        <feMergeNode in="blur2" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <!-- Tech Badge Style -->
+    <linearGradient id="badgeBg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.14" />
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.05" />
+    </linearGradient>
+
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800;900&amp;family=Fira+Code:wght@700&amp;display=swap');
+
+      /* Center Header Typography - Scaled Up */
+      .main-title {
+        font-family: 'Inter', system-ui, -apple-system, sans-serif;
+        font-weight: 900;
+        font-size: 68px;
+        fill: #ffffff;
+        letter-spacing: 3px;
+        filter: drop-shadow(0 0 14px rgba(78, 255, 172, 0.65));
+        animation: pulseTitleGlow 4s ease-in-out infinite alternate;
+      }
+
+      .subtitle {
+        font-family: 'Inter', system-ui, -apple-system, sans-serif;
+        font-weight: 800;
+        font-size: 25px;
+        fill: #b5e8dc;
+        letter-spacing: 8.5px;
+      }
+
+      .code-tag {
+        font-family: 'Fira Code', monospace;
+        font-weight: 700;
+        font-size: 38px;
+        fill: #61f7a1;
+        filter: drop-shadow(0 0 10px rgba(97, 247, 161, 0.85));
+      }
+
+      .tag-text {
+        font-family: 'Inter', system-ui, -apple-system, sans-serif;
+        font-weight: 700;
+        font-size: 15.5px;
+        fill: #e0f8f2;
+      }
+
+      /* Edge Circuits */
+      .circuit-base {
+        fill: none;
+        stroke: #123e32;
+        stroke-width: 2.2;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .circuit-terminal {
+        fill: #041a17;
+        stroke: #257d66;
+        stroke-width: 2.2;
+      }
+
+      /* Animated Electric Currents */
+      .electric-stream {
+        fill: none;
+        stroke: #52ff9e;
+        stroke-width: 2.6;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-dasharray: 90 600;
+        filter: url(#glow);
+        animation: electricFlow 3.8s linear infinite;
+      }
+
+      .stream-delay-1 { animation-delay: 0s; }
+      .stream-delay-2 { animation-delay: -1.3s; }
+      .stream-delay-3 { animation-delay: -2.6s; }
+
+      /* Neon Pulsing Dots */
+      .glowing-node {
+        fill: #b3ffd4;
+        filter: url(#superGlow);
+        animation: nodePulse 2.4s ease-in-out infinite alternate;
+      }
+      .node-d1 { animation-delay: -0.4s; }
+      .node-d2 { animation-delay: -1.2s; }
+      .node-d3 { animation-delay: -1.8s; }
+
+      /* Speed / Laser Lashes */
+      .speed-line-left {
+        stroke: url(#laserFadeLeft);
+        stroke-linecap: round;
+        animation: laserRush 2.8s ease-in-out infinite alternate;
+      }
+
+      .speed-line-right {
+        stroke: url(#laserFadeRight);
+        stroke-linecap: round;
+        animation: laserRush 2.8s ease-in-out infinite alternate;
+      }
+
+      /* Twinkling Stars */
+      .star {
+        fill: #85fbd2;
+        animation: starTwinkle 2.5s infinite ease-in-out alternate;
+      }
+
+      /* Keyframes */
+      @keyframes electricFlow {
+        0% { stroke-dashoffset: 690; }
+        100% { stroke-dashoffset: 0; }
+      }
+
+      @keyframes nodePulse {
+        0% { r: 6; opacity: 0.6; }
+        100% { r: 10; opacity: 1; filter: drop-shadow(0 0 14px #39ff94); }
+      }
+
+      @keyframes laserRush {
+        0% { stroke-width: 2.5; opacity: 0.7; }
+        100% { stroke-width: 4.5; opacity: 1; }
+      }
+
+      @keyframes pulseTitleGlow {
+        0% { filter: drop-shadow(0 0 8px rgba(78, 255, 172, 0.4)); }
+        100% { filter: drop-shadow(0 0 20px rgba(78, 255, 172, 0.85)); }
+      }
+
+      @keyframes starTwinkle {
+        0% { opacity: 0.15; transform: scale(0.8); }
+        100% { opacity: 0.85; transform: scale(1.3); }
+      }
+    </style>
+  </defs>
+
+  <!-- Background Canvas -->
+  <rect width="1300" height="400" fill="url(#bgGradient)" />
+
+  <!-- Stars across background -->
+  <g>
+    <circle class="star" cx="50" cy="45" r="1.5" style="animation-delay: 0.3s;" />
+    <circle class="star" cx="90" cy="145" r="1.2" style="animation-delay: 1.2s;" />
+    <circle class="star" cx="140" cy="65" r="1.8" style="animation-delay: 0.6s;" />
+    <circle class="star" cx="70" cy="335" r="1.4" style="animation-delay: 1.8s;" />
+    <circle class="star" cx="200" cy="220" r="1.3" style="animation-delay: 0.9s;" />
+    <circle class="star" cx="280" cy="360" r="1.5" style="animation-delay: 1.4s;" />
+    <circle class="star" cx="340" cy="40" r="1.6" style="animation-delay: 0.2s;" />
+
+    <circle class="star" cx="1250" cy="45" r="1.5" style="animation-delay: 0.5s;" />
+    <circle class="star" cx="1210" cy="145" r="1.2" style="animation-delay: 1.6s;" />
+    <circle class="star" cx="1160" cy="65" r="1.8" style="animation-delay: 0.1s;" />
+    <circle class="star" cx="1230" cy="335" r="1.4" style="animation-delay: 1.1s;" />
+    <circle class="star" cx="1100" cy="220" r="1.3" style="animation-delay: 0.7s;" />
+    <circle class="star" cx="1020" cy="360" r="1.5" style="animation-delay: 1.9s;" />
+    <circle class="star" cx="960" cy="40" r="1.6" style="animation-delay: 0.4s;" />
+  </g>
+
+  <!-- ==================== LEFT WING ==================== -->
+  <g id="left-wing">
+    <!-- Edge Lasers -->
+    <line class="speed-line-left" x1="0" y1="58" x2="210" y2="58" stroke-width="3" style="animation-delay: 0.1s;" />
+    <line class="speed-line-left" x1="0" y1="120" x2="290" y2="120" stroke-width="3.5" style="animation-delay: 0.5s;" />
+    <line class="speed-line-left" x1="0" y1="180" x2="250" y2="180" stroke-width="4.2" style="animation-delay: 1.1s;" />
+    <line class="speed-line-left" x1="0" y1="240" x2="310" y2="240" stroke-width="4" style="animation-delay: 0.3s;" />
+    <line class="speed-line-left" x1="0" y1="300" x2="230" y2="300" stroke-width="3.2" style="animation-delay: 0.8s;" />
+    <line class="speed-line-left" x1="0" y1="355" x2="300" y2="355" stroke-width="2.8" style="animation-delay: 1.4s;" />
+
+    <!-- Static Tracks -->
+    <path class="circuit-base" d="M0 75 L70 75 L105 40 L200 40 L235 75 L330 75" />
+    <circle class="circuit-terminal" cx="334" cy="75" r="4.5" />
+
+    <path class="circuit-base" d="M0 135 L95 135 L135 90 L235 90 L270 120 L350 120" />
+    <circle class="circuit-terminal" cx="354" cy="120" r="4.5" />
+
+    <path class="circuit-base" d="M0 190 L115 190 L160 135 L250 135 L280 85 L340 85" />
+    <circle class="circuit-terminal" cx="344" cy="85" r="4.5" />
+
+    <path class="circuit-base" d="M0 220 L135 220 L180 165 L285 165 L315 110 L365 110" />
+    <circle class="circuit-terminal" cx="369" cy="110" r="4.5" />
+
+    <path class="circuit-base" d="M0 260 L110 260 L155 315 L245 315 L290 230 L360 230" />
+    <circle class="circuit-terminal" cx="364" cy="230" r="4.5" />
+
+    <path class="circuit-base" d="M0 320 L80 320 L125 265 L215 265 L255 340 L340 340" />
+    <circle class="circuit-terminal" cx="344" cy="340" r="4.5" />
+
+    <!-- Electric Pulses -->
+    <path class="electric-stream stream-delay-1" d="M0 75 L70 75 L105 40 L200 40 L235 75 L330 75" />
+    <path class="electric-stream stream-delay-2" d="M0 135 L95 135 L135 90 L235 90 L270 120 L350 120" />
+    <path class="electric-stream stream-delay-3" d="M0 190 L115 190 L160 135 L250 135 L280 85 L340 85" />
+    <path class="electric-stream stream-delay-1" d="M0 220 L135 220 L180 165 L285 165 L315 110 L365 110" />
+    <path class="electric-stream stream-delay-2" d="M0 260 L110 260 L155 315 L245 315 L290 230 L360 230" />
+    <path class="electric-stream stream-delay-3" d="M0 320 L80 320 L125 265 L215 265 L255 340 L340 340" />
+
+    <!-- Glowing Nodes -->
+    <circle class="glowing-node node-d1" cx="70" cy="75" r="6" />
+    <circle class="glowing-node node-d3" cx="115" cy="190" r="7" />
+    <circle class="glowing-node node-d2" cx="200" cy="40" r="6.5" />
+    <circle class="glowing-node node-d1" cx="245" cy="315" r="7.5" />
+    <circle class="glowing-node node-d2" cx="285" cy="165" r="8" />
+    <circle class="glowing-node node-d3" cx="155" cy="315" r="6" />
+  </g>
+
+  <!-- ==================== RIGHT WING (Mirrored) ==================== -->
+  <g id="right-wing" transform="translate(1300, 0) scale(-1, 1)">
+    <!-- Edge Lasers -->
+    <line class="speed-line-right" x1="0" y1="58" x2="210" y2="58" stroke-width="3" style="animation-delay: 0.3s;" />
+    <line class="speed-line-right" x1="0" y1="120" x2="290" y2="120" stroke-width="3.5" style="animation-delay: 0.8s;" />
+    <line class="speed-line-right" x1="0" y1="180" x2="250" y2="180" stroke-width="4.2" style="animation-delay: 0.2s;" />
+    <line class="speed-line-right" x1="0" y1="240" x2="310" y2="240" stroke-width="4" style="animation-delay: 1.4s;" />
+    <line class="speed-line-right" x1="0" y1="300" x2="230" y2="300" stroke-width="3.2" style="animation-delay: 0.6s;" />
+    <line class="speed-line-right" x1="0" y1="355" x2="300" y2="355" stroke-width="2.8" style="animation-delay: 1.1s;" />
+
+    <!-- Static Tracks -->
+    <path class="circuit-base" d="M0 75 L70 75 L105 40 L200 40 L235 75 L330 75" />
+    <circle class="circuit-terminal" cx="334" cy="75" r="4.5" />
+
+    <path class="circuit-base" d="M0 135 L95 135 L135 90 L235 90 L270 120 L350 120" />
+    <circle class="circuit-terminal" cx="354" cy="120" r="4.5" />
+
+    <path class="circuit-base" d="M0 190 L115 190 L160 135 L250 135 L280 85 L340 85" />
+    <circle class="circuit-terminal" cx="344" cy="85" r="4.5" />
+
+    <path class="circuit-base" d="M0 220 L135 220 L180 165 L285 165 L315 110 L365 110" />
+    <circle class="circuit-terminal" cx="369" cy="110" r="4.5" />
+
+    <path class="circuit-base" d="M0 260 L110 260 L155 315 L245 315 L290 230 L360 230" />
+    <circle class="circuit-terminal" cx="364" cy="230" r="4.5" />
+
+    <path class="circuit-base" d="M0 320 L80 320 L125 265 L215 265 L255 340 L340 340" />
+    <circle class="circuit-terminal" cx="344" cy="340" r="4.5" />
+
+    <!-- Electric Pulses -->
+    <path class="electric-stream stream-delay-2" d="M0 75 L70 75 L105 40 L200 40 L235 75 L330 75" />
+    <path class="electric-stream stream-delay-3" d="M0 135 L95 135 L135 90 L235 90 L270 120 L350 120" />
+    <path class="electric-stream stream-delay-1" d="M0 190 L115 190 L160 135 L250 135 L280 85 L340 85" />
+    <path class="electric-stream stream-delay-2" d="M0 220 L135 220 L180 165 L285 165 L315 110 L365 110" />
+    <path class="electric-stream stream-delay-3" d="M0 260 L110 260 L155 315 L245 315 L290 230 L360 230" />
+    <path class="electric-stream stream-delay-1" d="M0 320 L80 320 L125 265 L215 265 L255 340 L340 340" />
+
+    <!-- Glowing Nodes -->
+    <circle class="glowing-node node-d2" cx="70" cy="75" r="6" />
+    <circle class="glowing-node node-d1" cx="115" cy="190" r="7" />
+    <circle class="glowing-node node-d3" cx="200" cy="40" r="6.5" />
+    <circle class="glowing-node node-d2" cx="245" cy="315" r="7.5" />
+    <circle class="glowing-node node-d1" cx="285" cy="165" r="8" />
+    <circle class="glowing-node node-d3" cx="155" cy="315" r="6" />
+  </g>
+
+  <!-- ==================== CENTER HERO CONTENT ==================== -->
+  <g id="center-content">
+    
+    <!-- Code Bracket Icon with Accent Lines -->
+    <g transform="translate(650, 75)">
+      <line x1="-160" y1="-12" x2="-55" y2="-12" stroke="#1c6b54" stroke-width="2.8" stroke-linecap="round" />
+      <text x="0" y="0" class="code-tag" text-anchor="middle">&lt; / &gt;</text>
+      <line x1="55" y1="-12" x2="160" y2="-12" stroke="#1c6b54" stroke-width="2.8" stroke-linecap="round" />
+    </g>
+
+    <!-- Main Title (SIAM AL RABBI) -->
+    <text x="650" y="165" class="main-title" text-anchor="middle">SIAM AL RABBI</text>
+
+    <!-- Subtitle (FULL-STACK DEVELOPER) -->
+    <text x="650" y="218" class="subtitle" text-anchor="middle">FULL-STACK DEVELOPER</text>
+
+    <!-- Tech Stack Pill Badges (Enlarged & Centered) -->
+    <!-- Total width: 116 + 14 + 112 + 14 + 138 + 14 + 124 + 14 + 130 = 676px -> Offset = 650 - (676 / 2) = 312 -->
+    <g transform="translate(312, 265)">
+      
+      <!-- Next.js -->
+      <g transform="translate(0, 0)">
+        <rect width="116" height="44" rx="22" fill="url(#badgeBg)" stroke="#2f6354" stroke-width="1.5" />
+        <circle cx="26" cy="22" r="13" fill="#ffffff" />
+        <g id="nextjs-n">
+          <rect x="20.5" y="14.5" width="2.6" height="15" rx="0.5" fill="#000000" />
+          <rect x="29" y="14.5" width="2.6" height="11.5" rx="0.5" fill="#000000" />
+          <polygon points="20.5,14.5 23.2,14.5 34,31.5 31.3,31.5" fill="#000000" />
+        </g>
+        <text x="73" y="27.5" class="tag-text" text-anchor="middle">Next.js</text>
+      </g>
+
+      <!-- React -->
+      <g transform="translate(130, 0)">
+        <rect width="112" height="44" rx="22" fill="url(#badgeBg)" stroke="#2f6354" stroke-width="1.5" />
+        <ellipse cx="26" cy="22" rx="12" ry="4.8" fill="none" stroke="#58c4dc" stroke-width="1.4" transform="rotate(30 26 22)" />
+        <ellipse cx="26" cy="22" rx="12" ry="4.8" fill="none" stroke="#58c4dc" stroke-width="1.4" transform="rotate(90 26 22)" />
+        <ellipse cx="26" cy="22" rx="12" ry="4.8" fill="none" stroke="#58c4dc" stroke-width="1.4" transform="rotate(150 26 22)" />
+        <circle cx="26" cy="22" r="2.2" fill="#58c4dc" />
+        <text x="69" y="27.5" class="tag-text" text-anchor="middle">React</text>
+      </g>
+
+      <!-- TypeScript -->
+      <g transform="translate(256, 0)">
+        <rect width="138" height="44" rx="22" fill="url(#badgeBg)" stroke="#2f6354" stroke-width="1.5" />
+        <rect x="15" y="11" width="22" height="22" rx="4" fill="#3178c6" />
+        <text x="26" y="26.5" font-family="'Inter', sans-serif" font-weight="900" font-size="12" fill="#ffffff" text-anchor="middle">TS</text>
+        <text x="83" y="27.5" class="tag-text" text-anchor="middle">TypeScript</text>
+      </g>
+
+      <!-- Node.js -->
+      <g transform="translate(408, 0)">
+        <rect width="124" height="44" rx="22" fill="url(#badgeBg)" stroke="#2f6354" stroke-width="1.5" />
+        <rect x="15" y="11" width="22" height="22" rx="4" fill="#215732" />
+        <text x="26" y="26.5" font-family="'Inter', sans-serif" font-weight="900" font-size="12" fill="#83cd29" text-anchor="middle">JS</text>
+        <text x="75" y="27.5" class="tag-text" text-anchor="middle">Node.js</text>
+      </g>
+
+      <!-- MongoDB -->
+      <g transform="translate(546, 0)">
+        <rect width="130" height="44" rx="22" fill="url(#badgeBg)" stroke="#2f6354" stroke-width="1.5" />
+        <path d="M25 10 C25 10 18 16.5 18 22 C18 26.5 22.5 29.5 25 31 C27.5 29.5 32 26.5 32 22 C32 16.5 25 10 25 10 Z" fill="#47a248" />
+        <path d="M25 10 L25 31" stroke="#ffffff" stroke-width="1" opacity="0.6" />
+        <text x="79" y="27.5" class="tag-text" text-anchor="middle">MongoDB</text>
+      </g>
+
+    </g>
+  </g>
+</svg>
