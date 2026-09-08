@@ -33,8 +33,8 @@
       </ul>
     </td>
     <td width="40%" align="center" valign="middle">
-      <img width="100%" height="60%" alt="coding-vibe" src="https://github.com/user-attachments/assets/146591bd-16d0-4aab-9536-333775104e6f" />
-      <img width="100%" height="40%" alt="work life balance" src="https://github.com/user-attachments/assets/18af2de0-64e5-465a-96fb-7c668c9d144a" />
+      <img width="100%" alt="coding-vibe" src="https://github.com/user-attachments/assets/146591bd-16d0-4aab-9536-333775104e6f" />
+      <img width="100%" alt="work-life-balance" src="https://github.com/user-attachments/assets/89d7a119-0dfb-473d-9d7a-6c0727bbf1eb" />
     </td>
   </tr>
 </table>
