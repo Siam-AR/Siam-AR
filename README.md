@@ -17,39 +17,26 @@
 
 ---
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> About Me
-
-<table>
-<tr>
-
-<td width="60%">
-
-### 👨‍💻 Who Am I?
-
-I'm **Siam Al Rabbi**, a **Computer Science & Engineering** student passionate about creating scalable, responsive, and user-friendly web applications.
-
-I enjoy transforming ideas into real-world products using the **MERN Stack** while continuously learning modern technologies and software engineering principles.
-
-### 🚀 Current Activities
-
-- 🔭 Building **SkillSwap** — A Full-Stack Skill Exchange Platform
-- 🌱 Learning **Next.js** & **TypeScript**
-- 💡 Exploring Software Architecture & System Design
-- ⚡ Passionate about writing clean, maintainable code
-
-</td>
-
-<td width="40%" align="center">
-<div>
-  <p align="center">
-  <img src="https://github.com/demartini/demartini/blob/master/code.gif">
-</p>
-  </a>
-</p>
-</div>
-</td>
-
-</tr>
+<table border="0" width="100%">
+  <tr>
+    <td width="60%" valign="top">
+      <a href="https://github.com/Siam-AR"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=15&amp;duration=2500&amp;pause=1200&amp;color=2DE370&amp;background=02100D00&amp;vCenter=true&amp;width=480&amp;height=45&amp;lines=%24+whoami;Siam+Al+Rabbi+%7C+Full-Stack+Developer;%24+status;Building+SkillSwap...;%24+stack;Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Node+%E2%80%A2+MongoDB" alt="CLI-Animation" /></a>
+      <p>I'm <b>Siam Al Rabbi</b>, a Computer Science &amp; Engineering student and Full-Stack Developer passionate about scalable web architectures, responsive interfaces, and robust systems.</p>
+      <h4>⚡ Quick Facts</h4>
+      <ul>
+        <li>🔭 <b>Building:</b> <code>SkillSwap</code> — Full-stack skill platform</li>
+        <li>🌱 <b>Learning:</b> Deep Learning, AI integrations &amp; System Design</li>
+        <li>💬 <b>Ask Me:</b> React, Next.js, Node.js, Express, MongoDB, TypeScript</li>
+        <li>🤝 <b>Looking to Collaborate:</b> High-impact full-stack web apps</li>
+        <li>📫 <b>Social:</b> <a href="https://linkedin.com/in/siam-ar">LinkedIn</a></li>
+        <li>⚡ <b>Focus:</b> Clean, modular, type-safe engineering</li>
+        <li>💡 <b>Fun Fact:</b> The only thing faster than my compiler is my brain in the last hour before submission.</li>
+      </ul>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img width="800" height="600" alt="coding-vibe" src="https://github.com/user-attachments/assets/674280ff-6eea-48d3-a554-ab60b6ed2ef0" />
+    </td>
+  </tr>
 </table>
 
 ---
