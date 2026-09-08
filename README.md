@@ -16,7 +16,6 @@
 </div>
 
 ---
-
 <table border="0" width="100%">
   <tr>
     <td width="60%" valign="top">
@@ -34,11 +33,11 @@
       </ul>
     </td>
     <td width="40%" align="center" valign="middle">
-      <img width="800" height="600" alt="coding-vibe" src="https://github.com/user-attachments/assets/674280ff-6eea-48d3-a554-ab60b6ed2ef0" />
+      <!-- Fixed: Transparent background image with correct layout scaling -->
+      <img src="https://i.imgur.com/8QeR3Wd.png" alt="coding-vibe" width="100%" />
     </td>
   </tr>
 </table>
-
 ---
 
 # <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35"> Tech Stack
