@@ -33,11 +33,11 @@
       </ul>
     </td>
     <td width="40%" align="center" valign="middle">
-      <!-- Fixed: Transparent background image with correct layout scaling -->
-      <img src="https://i.imgur.com/8QeR3Wd.png" alt="coding-vibe" width="100%" />
+      <img width="100%" alt="coding-vibe" src="https://github.com/user-attachments/assets/146591bd-16d0-4aab-9536-333775104e6f" />
     </td>
   </tr>
 </table>
+
 ---
 
 # <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35"> Tech Stack
