@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" alt="Siam Al Rabbi Banner" src="https://github.com/user-attachments/assets/5da00657-565e-491f-8a1d-87d48265b44c" />
+<img width="3748" height="1120" alt="Github-Cover" src="https://github.com/user-attachments/assets/aaf3cf40-a673-4766-9d76-86f885fdfa3a" />
 
 <p>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1200&color=6C63FF&center=true&vCenter=true&width=700&lines=Hello+There!+%F0%9F%91%8B;Nice+to+meet+you!;I'm+Siam+Al+Rabbi;Full-Stack+Web+Developer" />
