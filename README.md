@@ -1,7 +1,7 @@
 <div align="center">
 
 <div align="center">
-  <img src="./Github-Cover.svg" alt="Cover Banner" width="100%" />
+  <img src="./Github-Cover(2).svg" alt="Cover Banner" width="100%" />
 </div>
 
 <p>
