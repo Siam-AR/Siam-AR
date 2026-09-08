@@ -4,6 +4,10 @@
   <img src="./Github-Cover (2).svg" alt="Cover Banner" width="100%" />
 </div>
 
+<div align="center">
+  <img src="./intro-text.svg" alt="Cover Banner" width="100%" />
+</div>
+
 <p>
 <img src="https://komarev.com/ghpvc/?username=Siam-AR&label=Profile+Views&color=6C63FF&style=for-the-badge"/>
 <img src="https://img.shields.io/github/followers/Siam-AR?style=for-the-badge"/>
