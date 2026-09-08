@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="3748" height="1120" alt="Github-Cover" src="https://github.com/user-attachments/assets/aaf3cf40-a673-4766-9d76-86f885fdfa3a" />
+<img width="3725" height="1120" alt="Github-Cover" src="https://github.com/user-attachments/assets/0367d7ea-a2f0-4d8b-a4d3-e88437671a32" />
 
 <p>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1200&color=6C63FF&center=true&vCenter=true&width=700&lines=Hello+There!+%F0%9F%91%8B;Nice+to+meet+you!;I'm+Siam+Al+Rabbi;Full-Stack+Web+Developer" />
