@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="./intro-text.svg" alt="Cover Banner" width="100%" />
+  <img src="./intro-text-2.svg" alt="Cover Banner" width="100%" />
 </div>
 
 <p>
