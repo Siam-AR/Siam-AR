@@ -62,7 +62,7 @@
 
   <img src="./icons/html.svg" width="70" height="70" alt="HTML5" />
   <img src="./icons/css.svg" width="70" height="70" alt="CSS3" />
-  <img src="./icons/react.svg" width="90" height="90" alt="React" />
+  <img src="./icons/react.svg" width="70" height="70" alt="React" />
   <img src="./icons/nextjs.svg" width="70" height="70" alt="Next.js" />
   <img src="./icons/tailwind.svg" width="70" height="70" alt="Tailwind CSS" />
 </p>
@@ -88,10 +88,10 @@
 
 ## <code><a href="https://github.com/siam-ar" style="color: #38BDF8; text-decoration: none; font-weight: 700;">AUTH & SECURITY</a></code>
 <p align="center">
-  <img src="./icons/jwt.svg" width="70" height="70" alt="JWT" />
-  <img src="./icons/bycrypt.svg" width="70" height="70" alt="bycrypt" />
-  <img src="./icons/RABC.svg" width="70" height="70" alt="RABC" />
-  <img src="./icons/oauth2.0.svg" width="70" height="70" alt="oauth2.0" />
+  <img src="./icons/jwt.svg" width="80" height="80" alt="JWT" />
+  <img src="./icons/bycrypt.svg" width="80" height="80" alt="bycrypt" />
+  <img src="./icons/RABC.svg" width="80" height="80" alt="RABC" />
+  <img src="./icons/oauth2.0.svg" width="80" height="80" alt="oauth2.0" />
   
   
 </p>
