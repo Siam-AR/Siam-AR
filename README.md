@@ -23,6 +23,9 @@
       <p>I'm <b>Siam Al Rabbi</b>, a Computer Science &amp; Engineering student and Full-Stack Developer passionate about scalable web architectures, responsive interfaces, and robust systems.</p>
       <h4>⚡ Quick Facts</h4>
       <ul>
+        <br/>
+        <br>
+        <br>
         <li> <b>Building:</b> <code>SkillSwap</code> — Full-Stack Freelance Skill Exchange Platform</li>
         <li> <b>Learning:</b> Deep Learning, AI integrations &amp; System Design</li>
         <li> <b>Ask Me:</b> React, Next.js, Node.js, Express, MongoDB, TypeScript</li>
