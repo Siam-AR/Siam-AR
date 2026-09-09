@@ -21,11 +21,9 @@
     <td width="60%" valign="top">
       <a href="https://github.com/Siam-AR"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=15&amp;duration=2500&amp;pause=1200&amp;color=2DE370&amp;background=02100D00&amp;vCenter=true&amp;width=480&amp;height=45&amp;lines=%24+whoami;Siam+Al+Rabbi+%7C+Full-Stack+Developer;%24+status;Building+SkillSwap...;%24+stack;Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Node+%E2%80%A2+MongoDB" alt="CLI-Animation" /></a>
       <p>I'm <b>Siam Al Rabbi</b>, a Computer Science &amp; Engineering student and Full-Stack Developer passionate about scalable web architectures, responsive interfaces, and robust systems.</p>
+      <br/>
       <h4>⚡ Quick Facts</h4>
       <ul>
-        <br/>
-        <br>
-        <br>
         <li> <b>Building:</b> <code>SkillSwap</code> — Full-Stack Freelance Skill Exchange Platform</li>
         <li> <b>Learning:</b> Deep Learning, AI integrations &amp; System Design</li>
         <li> <b>Ask Me:</b> React, Next.js, Node.js, Express, MongoDB, TypeScript</li>
