@@ -41,17 +41,18 @@
 
 ---
 
+
 # <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35"> Tech Stack
 
 <div align="center">
 
 ## <code><a href="https://github.com/siam-ar" style="color: #38BDF8; text-decoration: none; font-weight: 700;">PROGRAMMING LANGUAGES</a></code>
 <p align="center">
-  <img src="./icons/js.svg" width="50" height="50" alt="JavaScript" />
-  <img src="./icons/ts.svg" width="50" height="50" alt="TypeScript" />
-  <img src="./icons/python.svg" width="50" height="50" alt="Python" />
-  <img src="./icons/java.svg" width="50" height="50" alt="Java" />
-  <img src="./icons/cpp.svg" width="50" height="50" alt="C++" />
+  <img src="./icons/js.svg" width="70" height="70" alt="JavaScript" />
+  <img src="./icons/ts.svg" width="70" height="70" alt="TypeScript" />
+  <img src="./icons/python.svg" width="70" height="70" alt="Python" />
+  <img src="./icons/java.svg" width="70" height="70" alt="Java" />
+  <img src="./icons/cpp.svg" width="70" height="70" alt="C++" />
 </p>
 
 <br>
@@ -59,38 +60,38 @@
 ## <code><a href="https://github.com/siam-ar" style="color: #38BDF8; text-decoration: none; font-weight: 700;">FRONTEND</a></code>
 <p align="center">
 
-  <img src="./icons/html.svg" width="50" height="50" alt="HTML5" />
-  <img src="./icons/css.svg" width="50" height="50" alt="CSS3" />
+  <img src="./icons/html.svg" width="70" height="70" alt="HTML5" />
+  <img src="./icons/css.svg" width="70" height="70" alt="CSS3" />
   <img src="./icons/react.svg" width="90" height="90" alt="React" />
-  <img src="./icons/nextjs.svg" width="50" height="50" alt="Next.js" />
-  <img src="./icons/tailwind.svg" width="50" height="50" alt="Tailwind CSS" />
+  <img src="./icons/nextjs.svg" width="70" height="70" alt="Next.js" />
+  <img src="./icons/tailwind.svg" width="70" height="70" alt="Tailwind CSS" />
 </p>
 
 <br>
 
 ## <code><a href="https://github.com/siam-ar" style="color: #38BDF8; text-decoration: none; font-weight: 700;">BACKEND</a></code>
 <p align="center">
-  <img src="./icons/nodejs.svg" width="50" height="50" alt="Node.js" />
-  <img src="./icons/express.svg" width="50" height="50" alt="Express.js" />
+  <img src="./icons/nodejs.svg" width="70" height="70" alt="Node.js" />
+  <img src="./icons/express.svg" width="70" height="70" alt="Express.js" />
 </p>
 
 <br>
 
 ## <code><a href="https://github.com/siam-ar" style="color: #38BDF8; text-decoration: none; font-weight: 700;">DATABASES & ORMS</a></code>
 <p align="center">
-  <img src="./icons/mongodb.svg" width="50" height="50" alt="MongoDB" />
-  <img src="./icons/postgres.svg" width="50" height="50" alt="PostgreSQL" />
-  <img src="./icons/mysql.svg" width="50" height="50" alt="MySQL" />
+  <img src="./icons/mongodb.svg" width="70" height="70" alt="MongoDB" />
+  <img src="./icons/postgres.svg" width="70" height="70" alt="PostgreSQL" />
+  <img src="./icons/mysql.svg" width="70" height="70" alt="MySQL" />
 </p>
 
 <br>
 
 ## <code><a href="https://github.com/siam-ar" style="color: #38BDF8; text-decoration: none; font-weight: 700;">AUTH & SECURITY</a></code>
 <p align="center">
-  <img src="./icons/jwt.svg" width="50" height="50" alt="JWT" />
-  <img src="./icons/bycrypt.svg" width="50" height="50" alt="bycrypt" />
-  <img src="./icons/RABC.svg" width="50" height="50" alt="RABC" />
-  <img src="./icons/oauth2.0.svg" width="50" height="50" alt="oauth2.0" />
+  <img src="./icons/jwt.svg" width="70" height="70" alt="JWT" />
+  <img src="./icons/bycrypt.svg" width="70" height="70" alt="bycrypt" />
+  <img src="./icons/RABC.svg" width="70" height="70" alt="RABC" />
+  <img src="./icons/oauth2.0.svg" width="70" height="70" alt="oauth2.0" />
   
   
 </p>
@@ -99,17 +100,18 @@
 
 ## <code><a href="https://github.com/siam-ar" style="color: #38BDF8; text-decoration: none; font-weight: 700;">DEVELOPER TOOLS</a></code>
 <p align="center">
-  <img src="./icons/git.svg" width="50" height="50" alt="Git" />
-  <img src="./icons/github.svg" width="50" height="50" alt="GitHub" />
-  <img src="./icons/docker.svg" width="50" height="50" alt="Docker" />
-  <img src="./icons/postman.svg" width="50" height="50" alt="Postman" />
-  <img src="./icons/vercel.svg" width="50" height="50" alt="Vercel" />
-  <img src="./icons/linux.svg" width="50" height="50" alt="Linux" />
-  <img src="./icons/github-actions.svg" width="50" height="50" alt="github-actions" />
-  <img src="./icons/CI-CD.svg" width="50" height="50" alt="CI/CD" />
+  <img src="./icons/git.svg" width="70" height="70" alt="Git" />
+  <img src="./icons/github.svg" width="70" height="70" alt="GitHub" />
+  <img src="./icons/docker.svg" width="70" height="70" alt="Docker" />
+  <img src="./icons/postman.svg" width="70" height="70" alt="Postman" />
+  <img src="./icons/vercel.svg" width="70" height="70" alt="Vercel" />
+  <img src="./icons/linux.svg" width="70" height="70" alt="Linux" />
+  <img src="./icons/github-actions.svg" width="70" height="70" alt="github-actions" />
+  <img src="./icons/CI-CD.svg" width="70" height="70" alt="CI/CD" />
 </p>
 
 </div>
+
 
 ---
 
