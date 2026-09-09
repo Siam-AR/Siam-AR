@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="55" height="55">
   <!-- Unified Dark Tile Badge with SMIL Float Animation -->
   <g>
-    <!-- Standard Dark Theme Rounded Badge Base -->
-    <rect width="128" height="128" rx="24" fill="#181C24"/>
+    <!-- Standard Rounded Badge Base with #242938 Background -->
+    <rect width="128" height="128" rx="24" fill="#242938"/>
 
     <!-- Scaled & Centered Java Glyph -->
     <g transform="translate(64, 65) scale(0.0175, -0.0175) translate(-4950, -2500)" stroke="none">
