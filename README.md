@@ -90,7 +90,7 @@
   <img src="./icons/jwt.svg" width="50" height="50" alt="JWT" />
   <img src="./icons/bycrypt.svg" width="50" height="50" alt="bycrypt" />
   <img src="./icons/RABC.svg" width="50" height="50" alt="RABC" />
-  <img src="./icons/oauth2.0" width="50" height="50" alt="oauth2.0" />
+  <img src="./icons/oauth2.0.svg" width="50" height="50" alt="oauth2.0" />
   
   
 </p>
