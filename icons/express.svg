@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 950 480" width="100%" height="100%">
+  <!-- Expanded Dark Charcoal Background -->
+  <rect width="950" height="480" fill="#252525"/>
+
+  <!-- Logo Group with Native SMIL Float Animation -->
+  <g>
+    <!-- Ultra-Light Thin Express Wordmark -->
+    <g fill="none" stroke="#FFFFFF" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round">
+      <!-- Correct Open Capital 'E' -->
+      <path d="M125 150H50v132h75"/>
+      <path d="M50 216h62"/>
+      
+      <!-- x -->
+      <path d="M142 186l72 96"/>
+      <path d="M214 186l-72 96"/>
+      
+      <!-- p -->
+      <path d="M228 186v136"/>
+      <path d="M228 188c12-6 26-9 40-9 32 0 50 18 50 50s-18 50-50 50c-14 0-28-3-40-9"/>
+      
+      <!-- r -->
+      <path d="M336 186v96"/>
+      <path d="M336 210c11-18 28-29 48-29 6 0 13 2 18 5"/>
+      
+      <!-- e -->
+      <path d="M410 236h72c0-30-16-51-46-51s-50 23-50 51 20 51 50 51c20 0 36-9 44-24"/>
+      
+      <!-- first s -->
+      <path d="M564 204c-9-13-25-22-42-22-22 0-36 13-36 29 0 36 76 21 76 50 0 18-16 29-40 29-20 0-38-9-48-25"/>
+      
+      <!-- second s -->
+      <path d="M654 204c-9-13-25-22-42-22-22 0-36 13-36 29 0 36 76 21 76 50 0 18-16 29-40 29-20 0-38-9-48-25"/>
+    </g>
+
+    <!-- Official Yellow JS Accent Square -->
+    <rect x="690" y="145" width="190" height="190" fill="#F7DF1E"/>
+
+    <!-- Shifted UP: Centered vertically inside yellow box without touching bottom edge -->
+    <g fill="#000000" transform="translate(0, -22)">
+      <!-- J -->
+      <path d="M745 231h24v64c0 24-14 36-36 36-10 0-20-4-26-10l12-18c4 4 8 6 14 6 8 0 12-4 12-14v-64z"/>
+      <!-- S -->
+      <path d="M839 253c-6-4-14-8-24-8-12 0-18 6-18 13 0 9 10 12 24 16 22 6 36 14 36 34 0 22-18 35-42 35-18 0-32-6-40-16l14-16c6 8 16 12 26 12 12 0 20-6 20-14 0-8-8-11-22-15-22-6-38-14-38-34 0-20 16-33 38-33 16 0 28 5 36 11l-14 16z"/>
+    </g>
+
+    <!-- Looping SMIL Float Animation -->
+    <animateTransform 
+      attributeName="transform" 
+      type="translate" 
+      values="0,0; 0,-6; 0,0" 
+      dur="2.4s" 
+      repeatCount="indefinite"/>
+  </g>
+</svg>

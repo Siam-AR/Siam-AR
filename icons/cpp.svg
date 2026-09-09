@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="55" height="55">
+  <g>
+    <rect width="128" height="128" rx="20" fill="#00599C"/>
+    <path fill="#fff" d="M64 28a36 36 0 1 0 25 62l-9-9a23 23 0 1 1-16-39 23 23 0 0 1 16 6l9-9A36 36 0 0 0 64 28zm26 28h5v8h8v5h-8v8h-5v-8h-8v-5h8zm17 0h5v8h8v5h-8v8h-5v-8h-8v-5h8z"/>
+    <animateTransform attributeName="transform" type="translate" values="0,0; 0,-4; 0,0" dur="2.5s" repeatCount="indefinite"/>
+  </g>
+</svg>
