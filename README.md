@@ -45,37 +45,63 @@
 
 <div align="center">
 
-## 🎨 Frontend
+## <code><a href="https://github.com/siam-ar" style="color: #38BDF8; text-decoration: none; font-weight: 700;">PROGRAMMING LANGUAGES</a></code>
+<p align="center">
+  <img src="./icons/js.svg" width="50" height="50" alt="JavaScript" />
+  <img src="./icons/ts.svg" width="50" height="50" alt="TypeScript" />
+  <img src="./icons/python.svg" width="50" height="50" alt="Python" />
+  <img src="./icons/java.svg" width="50" height="50" alt="Java" />
+  <img src="./icons/cpp.svg" width="50" height="50" alt="C++" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+<br>
 
-<br><br>
+## <code><a href="https://github.com/siam-ar" style="color: #38BDF8; text-decoration: none; font-weight: 700;">FRONTEND</a></code>
+<p align="center">
+  <img src="./icons/react.svg" width="50" height="50" alt="React" />
+  <img src="./icons/nextjs.svg" width="50" height="50" alt="Next.js" />
+  <img src="./icons/tailwind.svg" width="50" height="50" alt="Tailwind CSS" />
+  <img src="./icons/html.svg" width="50" height="50" alt="HTML5" />
+  <img src="./icons/css.svg" width="50" height="50" alt="CSS3" />
+</p>
 
-## ⚙️ Backend
+<br>
 
-<img src="https://techstack-generator.vercel.app/nodejs-icon.svg" width="65"/>
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="65"/>
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/1a797f46-efe4-41e6-9e75-5303e1bbcbfa" width="65"/>
+## <code><a href="https://github.com/siam-ar" style="color: #38BDF8; text-decoration: none; font-weight: 700;">BACKEND</a></code>
+<p align="center">
+  <img src="./icons/nodejs.svg" width="50" height="50" alt="Node.js" />
+  <img src="./icons/express.svg" width="50" height="50" alt="Express.js" />
+</p>
 
-<br><br>
+<br>
 
-## 🗄️ Database
+## <code><a href="https://github.com/siam-ar" style="color: #38BDF8; text-decoration: none; font-weight: 700;">DATABASES & ORMS</a></code>
+<p align="center">
+  <img src="./icons/mongodb.svg" width="50" height="50" alt="MongoDB" />
+  <img src="./icons/postgres.svg" width="50" height="50" alt="PostgreSQL" />
+  <img src="./icons/mysql.svg" width="50" height="50" alt="MySQL" />
+</p>
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="65"/>
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65"/>
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3c16d4f2-b757-4c70-8f42-43d5dddd2c36" width="65"/>
+<br>
 
-<br><br>
+## <code><a href="https://github.com/siam-ar" style="color: #38BDF8; text-decoration: none; font-weight: 700;">AUTH & SECURITY</a></code>
+<p align="center">
+  <img src="./icons/jwt.svg" width="50" height="50" alt="JWT" />
+</p>
 
-## 🛠️ Tools
+<br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="65"/>
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="65"/>
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="65"/>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=github,git,vscode,linux,figma,postman,vercel,firebase" />
+## <code><a href="https://github.com/siam-ar" style="color: #38BDF8; text-decoration: none; font-weight: 700;">DEVELOPER TOOLS</a></code>
+<p align="center">
+  <img src="./icons/git.svg" width="50" height="50" alt="Git" />
+  <img src="./icons/github.svg" width="50" height="50" alt="GitHub" />
+  <img src="./icons/docker.svg" width="50" height="50" alt="Docker" />
+  <img src="./icons/postman.svg" width="50" height="50" alt="Postman" />
+  <img src="./icons/vercel.svg" width="50" height="50" alt="Vercel" />
+  <img src="./icons/linux.svg" width="50" height="50" alt="Linux" />
+  <img src="./icons/githubactions.svg" width="50" height="50" alt="GitHub Actions" />
+  <img src="./icons/cicd.svg" width="50" height="50" alt="CI/CD" />
+</p>
 
 </div>
 
