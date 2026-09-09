@@ -23,13 +23,13 @@
       <p>I'm <b>Siam Al Rabbi</b>, a Computer Science &amp; Engineering student and Full-Stack Developer passionate about scalable web architectures, responsive interfaces, and robust systems.</p>
       <h4>⚡ Quick Facts</h4>
       <ul>
-        <li>🔭 <b>Building:</b> <code>SkillSwap</code> — Full-Stack Freelance Skill Exchange Platform</li>
-        <li>🌱 <b>Learning:</b> Deep Learning, AI integrations &amp; System Design</li>
-        <li>💬 <b>Ask Me:</b> React, Next.js, Node.js, Express, MongoDB, TypeScript</li>
-        <li>🤝 <b>Looking to Collaborate:</b> High-impact full-stack web apps</li>
-        <li>📫 <b>Social:</b> <a href="https://linkedin.com/in/siam-ar">LinkedIn</a></li>
-        <li>⚡ <b>Focus:</b> Clean, modular, type-safe engineering</li>
-        <li>💡 <b>Fun Fact:</b> The only thing faster than my compiler is my brain in the last hour before submission.</li>
+        <li> <b>Building:</b> <code>SkillSwap</code> — Full-Stack Freelance Skill Exchange Platform</li>
+        <li> <b>Learning:</b> Deep Learning, AI integrations &amp; System Design</li>
+        <li> <b>Ask Me:</b> React, Next.js, Node.js, Express, MongoDB, TypeScript</li>
+        <li> <b>Looking to Collaborate:</b> High-impact full-stack web apps</li>
+        <li> <b>Social:</b> <a href="https://linkedin.com/in/siam-ar">LinkedIn</a></li>
+        <li> <b>Focus:</b> Clean, modular, type-safe engineering</li>
+        <li> <b>Fun Fact:</b> The only thing faster than my compiler is my brain in the last hour before submission.</li>
       </ul>
     </td>
     <td width="40%" align="center" valign="middle">
