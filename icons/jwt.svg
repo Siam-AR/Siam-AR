@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="55" height="55">
+  <!-- Unified Dark Tile Badge with SMIL Float Animation -->
+  <g>
+    <!-- Standard Rounded Badge Base (#242938) -->
+    <rect width="128" height="128" rx="24" fill="#242938"/>
+
+    <!-- Perfectly Centered Exact JWT Geometric Starburst + Wordmark -->
+    <g transform="translate(64, 52)">
+      <!-- Official JWT 10-Spoke Geometric Starburst -->
+      <g transform="scale(0.85)">
+        <!-- 0 deg (Top - White) -->
+        <path d="M-3.2,-28 L3.2,-28 L3.2,-10 L0,-7 L-3.2,-10 Z" fill="#FFFFFF"/>
+        <!-- 36 deg (Top-Right - Magenta) -->
+        <g transform="rotate(36)">
+          <path d="M-3.2,-28 L3.2,-28 L3.2,-10 L0,-7 L-3.2,-10 Z" fill="#E01E5A"/>
+        </g>
+        <!-- 72 deg (Right-Upper - Purple) -->
+        <g transform="rotate(72)">
+          <path d="M-3.2,-28 L3.2,-28 L3.2,-10 L0,-7 L-3.2,-10 Z" fill="#9B51E0"/>
+        </g>
+        <!-- 108 deg (Right-Lower - Cyan) -->
+        <g transform="rotate(108)">
+          <path d="M-3.2,-28 L3.2,-28 L3.2,-10 L0,-7 L-3.2,-10 Z" fill="#00D8F6"/>
+        </g>
+        <!-- 144 deg (Bottom-Right - Cyan) -->
+        <g transform="rotate(144)">
+          <path d="M-3.2,-28 L3.2,-28 L3.2,-10 L0,-7 L-3.2,-10 Z" fill="#00D8F6"/>
+        </g>
+        <!-- 180 deg (Bottom - White) -->
+        <g transform="rotate(180)">
+          <path d="M-3.2,-28 L3.2,-28 L3.2,-10 L0,-7 L-3.2,-10 Z" fill="#FFFFFF"/>
+        </g>
+        <!-- 216 deg (Bottom-Left - Magenta) -->
+        <g transform="rotate(216)">
+          <path d="M-3.2,-28 L3.2,-28 L3.2,-10 L0,-7 L-3.2,-10 Z" fill="#E01E5A"/>
+        </g>
+        <!-- 252 deg (Left-Lower - Purple) -->
+        <g transform="rotate(252)">
+          <path d="M-3.2,-28 L3.2,-28 L3.2,-10 L0,-7 L-3.2,-10 Z" fill="#9B51E0"/>
+        </g>
+        <!-- 288 deg (Left-Upper - Cyan) -->
+        <g transform="rotate(288)">
+          <path d="M-3.2,-28 L3.2,-28 L3.2,-10 L0,-7 L-3.2,-10 Z" fill="#00D8F6"/>
+        </g>
+        <!-- 324 deg (Top-Left - Cyan) -->
+        <g transform="rotate(324)">
+          <path d="M-3.2,-28 L3.2,-28 L3.2,-10 L0,-7 L-3.2,-10 Z" fill="#00D8F6"/>
+        </g>
+      </g>
+
+      <!-- Rounded JWT Wordmark Centered Below -->
+      <text 
+        x="0" 
+        y="46" 
+        text-anchor="middle" 
+        fill="#FFFFFF" 
+        font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" 
+        font-size="16" 
+        font-weight="800" 
+        letter-spacing="0.5px">JWT</text>
+    </g>
+
+    <!-- Synced SMIL Floating Animation Loop -->
+    <animateTransform 
+      attributeName="transform" 
+      type="translate" 
+      values="0,0; 0,-4; 0,0" 
+      dur="2.4s" 
+      repeatCount="indefinite"/>
+  </g>
+</svg>

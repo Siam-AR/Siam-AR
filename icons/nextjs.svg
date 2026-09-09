@@ -1,33 +1,42 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 320" width="100%" height="100%">
-  <!-- Solid Black Background -->
-  <rect width="800" height="320" rx="20" fill="#000000"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="55" height="55">
+  <!-- Unified Dark Tile Badge with SMIL Float Animation -->
+  <g>
+    <!-- Standard Rounded Badge Base (#242938) -->
+    <rect width="128" height="128" rx="24" fill="#242938"/>
 
-  <!-- Official Next.js Logo Paths -->
-  <g fill="#FFFFFF" transform="translate(100, 110)">
-    <!-- NEXT -->
-    <path d="M0 0h24.7l64.2 82.8V0h24.7v100H88.9L24.7 17.2V100H0V0z"/>
-    <path d="M141.4 0h75.8v20.6h-51.1v19h47.3v20.6h-47.3v19.2h51.1V100h-75.8V0z"/>
-    <path d="M245.2 0h27.9l23.5 35.8L320.1 0h27.9l-37.4 51.5 39.4 48.5h-28.5l-24.9-35-24.9 35h-28.5l39.4-48.5L245.2 0z"/>
-    <path d="M381.1 20.6h-31.5V0h87.7v20.6h-31.5V100h-24.7V20.6z"/>
+    <!-- Scaled & Centered Next.js Icon (76x76 footprint) -->
+    <g transform="translate(26, 26) scale(0.4222)">
+      <!-- Next.js Dark Circular Base with Subtle Border for Contrast -->
+      <circle cx="90" cy="90" r="88" fill="#000000" stroke="#2D333B" stroke-width="3"/>
 
-    <!-- Scaled Down .JS with Corrected Dot Spacing -->
-    <g transform="translate(470, 28) scale(0.72)">
-      <!-- Separated Dot -->
-      <circle cx="-12" cy="90" r="10"/>
-
-      <!-- J (Shifted right to avoid merging with dot) -->
-      <path d="M40 28h24.7v48.6c0 15.6-7.8 24.6-23.7 24.6-7.5 0-14.8-2.1-19.8-5.3l5.5-18.1c3.5 2.1 8 3.5 12.3 3.5 6.4 0 9.7-3.3 9.7-9.5V48.6H40V28z"/>
-
-      <!-- S -->
-      <path d="M82.4 83.1c4.9 3.5 11.6 6.1 18.7 6.1 9.3 0 14.6-4.2 14.6-10.2 0-6.7-5.6-9.5-15.5-12.1-14.5-3.7-23.4-9.7-23.4-24 0-14.6 11.8-25.5 29.4-25.5 8.5 0 15.9 2 21 5.3l-5 17.1c-4.1-2.1-9.2-3.7-15.6-3.7-7.4 0-12.3 3.7-12.3 8.8 0 5.8 4.7 8.3 14.8 10.9 14.9 3.9 24.1 10.4 24.1 24.7 0 16.1-12.5 26.8-31.4 26.8-9.2 0-18.5-2.6-24.2-6.5l4.8-17.6z"/>
+      <!-- Next.js Masked "N" Letterform with Gradients -->
+      <g mask="url(#nextjs-mask)">
+        <circle cx="90" cy="90" r="90" fill="#000000"/>
+        <path fill="url(#nextjs-b)" d="M149.508 157.52 69.142 54H54v71.97h12.114V69.384l73.885 95.461a90 90 0 0 0 9.509-7.325"/>
+        <path fill="url(#nextjs-c)" d="M115 54h12v72h-12z"/>
+      </g>
     </g>
 
-    <!-- Looping SMIL Float Animation -->
+    <!-- Synced SMIL Floating Animation Loop -->
     <animateTransform 
       attributeName="transform" 
       type="translate" 
-      values="100,110; 100,102; 100,110" 
+      values="0,0; 0,-4; 0,0" 
       dur="2.4s" 
       repeatCount="indefinite"/>
   </g>
+
+  <defs>
+    <mask id="nextjs-mask">
+      <circle cx="90" cy="90" r="90" fill="#FFFFFF"/>
+    </mask>
+    <linearGradient id="nextjs-b" x1="109" x2="144.5" y1="116.5" y2="160.5" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="nextjs-c" x1="121" x2="120.799" y1="54" y2="106.875" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
 </svg>

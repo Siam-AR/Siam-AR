@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="55" height="55">
+  <!-- Unified Dark Tile Badge with SMIL Float Animation -->
+  <g>
+    <!-- Standard Rounded Badge Base (#242938) -->
+    <rect width="128" height="128" rx="24" fill="#242938"/>
+
+    <!-- Scaled & Perfectly Centered bcrypt / Password Hashing Emblem -->
+    <g transform="translate(64, 50)">
+      <g transform="scale(0.85)">
+        <!-- Solid Lock Body -->
+        <rect x="-18" y="-4" width="36" height="28" rx="6" fill="#38BDF8"/>
+
+        <!-- Hardened Shackle (Curved Top Loop) -->
+        <path d="M-11 -4 V-16 C-11 -22.5 11 -22.5 11 -16 V-4" 
+              fill="none" 
+              stroke="#E2E8F0" 
+              stroke-width="4" 
+              stroke-linecap="round"/>
+
+        <!-- Centered Keyhole Core -->
+        <circle cx="0" cy="7" r="3.2" fill="#242938"/>
+        <path d="M-1.8 8 L-2.8 17 L2.8 17 L1.8 8 Z" fill="#242938"/>
+
+        <!-- Cryptographic Hash Grid Symbol Overlay (#) -->
+        <g stroke="#F59E0B" stroke-width="2.6" stroke-linecap="round" transform="translate(13, -12) scale(0.62)">
+          <line x1="-8" y1="-3" x2="8" y2="-3"/>
+          <line x1="-8" y1="5" x2="8" y2="5"/>
+          <line x1="-3" y1="-8" x2="-3" y2="10"/>
+          <line x1="4" y1="-8" x2="4" y2="10"/>
+        </g>
+      </g>
+
+      <!-- Bold High-Contrast Typography Centered Below -->
+      <text 
+        x="0" 
+        y="46" 
+        text-anchor="middle" 
+        fill="#FFFFFF" 
+        font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" 
+        font-size="14.5" 
+        font-weight="800" 
+        letter-spacing="0.5px">bcrypt</text>
+    </g>
+
+    <!-- Synced SMIL Floating Animation Loop -->
+    <animateTransform 
+      attributeName="transform" 
+      type="translate" 
+      values="0,0; 0,-4; 0,0" 
+      dur="2.4s" 
+      repeatCount="indefinite"/>
+  </g>
+</svg>
