@@ -58,11 +58,12 @@
 
 ## <code><a href="https://github.com/siam-ar" style="color: #38BDF8; text-decoration: none; font-weight: 700;">FRONTEND</a></code>
 <p align="center">
-  <img src="./icons/react.svg" width="50" height="50" alt="React" />
-  <img src="./icons/nextjs.svg" width="50" height="50" alt="Next.js" />
-  <img src="./icons/tailwind.svg" width="50" height="50" alt="Tailwind CSS" />
+
   <img src="./icons/html.svg" width="50" height="50" alt="HTML5" />
   <img src="./icons/css.svg" width="50" height="50" alt="CSS3" />
+  <img src="./icons/react.svg" width="90" height="90" alt="React" />
+  <img src="./icons/nextjs.svg" width="50" height="50" alt="Next.js" />
+  <img src="./icons/tailwind.svg" width="50" height="50" alt="Tailwind CSS" />
 </p>
 
 <br>
@@ -87,6 +88,11 @@
 ## <code><a href="https://github.com/siam-ar" style="color: #38BDF8; text-decoration: none; font-weight: 700;">AUTH & SECURITY</a></code>
 <p align="center">
   <img src="./icons/jwt.svg" width="50" height="50" alt="JWT" />
+  <img src="./icons/bycrypt.svg" width="50" height="50" alt="bycrypt" />
+  <img src="./icons/RABC.svg" width="50" height="50" alt="RABC" />
+  <img src="./icons/oauth2.0" width="50" height="50" alt="oauth2.0" />
+  
+  
 </p>
 
 <br>
@@ -99,8 +105,8 @@
   <img src="./icons/postman.svg" width="50" height="50" alt="Postman" />
   <img src="./icons/vercel.svg" width="50" height="50" alt="Vercel" />
   <img src="./icons/linux.svg" width="50" height="50" alt="Linux" />
-  <img src="./icons/githubactions.svg" width="50" height="50" alt="GitHub Actions" />
-  <img src="./icons/cicd.svg" width="50" height="50" alt="CI/CD" />
+  <img src="./icons/github-actions.svg" width="50" height="50" alt="github-actions" />
+  <img src="./icons/CI-CD.svg" width="50" height="50" alt="CI/CD" />
 </p>
 
 </div>
