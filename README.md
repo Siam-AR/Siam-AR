@@ -126,41 +126,149 @@
 
 ---
 
-# 🚀 Featured Project
-
 <div align="center">
 
-## 🌟 SkillSwap
+<!-- ============ Prominent Heading ============ -->
+<h2 style="
+  color: #ffffff;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  font-size: 1.8em;
+  font-weight: 800;
+  letter-spacing: -0.5px;
+  margin-bottom: 0px;
+">
+  Featured Project
+</h2>
 
-*A Modern Full-Stack Skill Exchange Platform*
+<br>
 
-<img src="https://img.shields.io/badge/Status-In%20Development-success?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Type-Full--Stack-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/License-MIT-orange?style=for-the-badge"/>
+<!-- ============ The Animated Title Section ============ -->
+<h2 align="center" style="
+  background: linear-gradient(to right, #ff7700, #ff0055, #6e00ff, #00c6ff, #ff7700);
+  background-size: 200% auto;
+  color: #fff;
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: shine 3s linear infinite;
+  font-weight: 800;
+  font-size: 3em;
+  margin-bottom: 10px;
+">
+  SkillSwap
+</h2>
+
+<p align="center" style="color: #8b949e; font-size: 1.2em;">
+  <em>A Modern Full-Stack Skill Exchange Platform</em>
+</p>
+
+<!-- ============ Modern, Flat-Style Call-to-Actions ============ -->
+<div align="center">
+  <br>
+  <a href="https://skill-swap-client-a10.vercel.app" style="text-decoration: none; margin: 0 10px;">
+    <img src="https://img.shields.io/badge/%20Live%20Demo-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo">
+  </a>
+  <a href="https://github.com/siam-ar/skillSwap-client" style="text-decoration: none; margin: 0 10px;">
+    <img src="https://img.shields.io/badge/%20Source%20Code-000?style=for-the-badge&logo=github&logoColor=white" alt="Source Code">
+  </a>
+  <br>
+</div>
+
+<!-- CSS Animation definition -->
+<style>
+  @keyframes shine {
+    to { background-position: 200% center; }
+  }
+</style>
+
+<br>
+
+<!-- ============ The 'Hero' Screenshot with a subtle glow ============ -->
+<div align="center" style="padding: 10px; background: linear-gradient(45deg, rgba(255,0,85,0.1), rgba(0,198,255,0.1)); border-radius: 15px;">
+  <img src="YOUR_HIGH_RESOLUTION_SCREENSHOT_OR_GIF_HERE.png" alt="SkillSwap Platform" width="100%" style="border-radius: 8px; box-shadow: 0 0 40px rgba(110, 0, 255, 0.3);">
+</div>
+
+<br>
+<hr>
+<br>
+
+<!-- ============ Core Capabilities / Features ============ -->
+
+<h3 align="center" style="font-weight: 800; font-size: 2em; margin-bottom: 30px;">
+  Key Features
+</h3>
+
+<table width="100%" style="border: none;">
+  <tr>
+    <td width="50%" style="background: rgba(255, 255, 255, 0.02); border: 1px solid rgba(255, 255, 255, 0.08); border-radius: 12px; padding: 20px; vertical-align: top;">
+      <h4>🔐 Better Authentication</h4>
+      <p style="color: #8b949e; font-size: 0.95em;">Secure authentication with Better Auth, featuring Google OAuth, persistent sessions, and protected user roles.</p>
+    </td>
+    <td width="50%" style="background: rgba(255, 255, 255, 0.02); border: 1px solid rgba(255, 255, 255, 0.08); border-radius: 12px; padding: 20px; vertical-align: top;">
+      <h4>💳 Stripe Checkout Flow</h4>
+      <p style="color: #8b949e; font-size: 0.95em;">Secure transaction processing with Stripe integration and automated checkout success tracking.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" style="background: rgba(255, 255, 255, 0.02); border: 1px solid rgba(255, 255, 255, 0.08); border-radius: 12px; padding: 20px; vertical-align: top;">
+      <h4>⚡ High Performance</h4>
+      <p style="color: #8b949e; font-size: 0.95em;">Engineered with Next.js Server-Side Rendering (SSR) for instantaneous data loading from MongoDB.</p>
+    </td>
+    <td width="50%" style="background: rgba(255, 255, 255, 0.02); border: 1px solid rgba(255, 255, 255, 0.08); border-radius: 12px; padding: 20px; vertical-align: top;">
+      <h4>🛡️ Protected Route Guards</h4>
+      <p style="color: #8b949e; font-size: 0.95em;">Role-specific dashboards tailored for Clients, Freelancers, and Administrators with full refresh safety.</p>
+    </td>
+  </tr>
+</table>
+
+<br>
+<hr>
+<br>
+
+<!-- ============ Architecture & Stack ============ -->
+
+<h3 align="center" style="font-weight: 800; font-size: 2em; margin-bottom: 25px;">
+  Architecture &amp; Stack
+</h3>
+
+<div align="center" style="padding: 25px; background: rgba(255, 255, 255, 0.02); border: 1px solid rgba(255, 255, 255, 0.08); border-radius: 16px; box-shadow: 0 10px 30px -10px rgba(0,0,0,0.3);">
+
+  <p style="color: #8b949e; font-size: 0.95em; margin-bottom: 20px;">
+    Separated micro-architecture featuring a Next.js client application paired with a robust Express &amp; MongoDB REST API server.
+  </p>
+
+  <!-- Animated Tech Icons Row -->
+  <a href="https://skillicons.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,express,mongodb,firebase,tailwind&theme=dark" alt="Tech Stack Icons" />
+  </a>
+
+  <br><br>
+
+  <!-- Structured Technology Breakdown -->
+  <table width="100%" style="border: none; text-align: left; margin-top: 10px;">
+    <tr>
+      <td width="33%" style="vertical-align: top; padding: 10px;">
+        <strong style="color: #fff; font-size: 0.9em;">Frontend App</strong>
+        <p style="color: #8b949e; font-size: 0.85em; margin-top: 4px;">Next.js 16, React 19, Tailwind CSS, HeroUI</p>
+      </td>
+      <td width="33%" style="vertical-align: top; padding: 10px;">
+        <strong style="color: #fff; font-size: 0.9em;">Backend Server</strong>
+        <p style="color: #8b949e; font-size: 0.85em; margin-top: 4px;">Node.js, Express 5 REST API</p>
+      </td>
+      <td width="33%" style="vertical-align: top; padding: 10px;">
+        <strong style="color: #fff; font-size: 0.9em;">Database &amp; Services</strong>
+        <p style="color: #8b949e; font-size: 0.85em; margin-top: 4px;">MongoDB Atlas, BetterAuth, Stripe.js</p>
+      </td>
+    </tr>
+  </table>
 
 </div>
 
-SkillSwap is a modern web application where users can exchange skills, discover learning partners, send swap requests, and collaborate with others through a clean, responsive, and user-friendly interface.
+<br>
+<hr>
+<br>
 
-### ✨ Key Features
-
-- 🔐 Secure Firebase Authentication
-- 👤 User Profiles & Skill Management
-- 🔄 Skill Swap Requests
-- ❤️ Like & Save Skills
-- 🌙 Dark Mode
-- 📱 Fully Responsive Design
-- ⚡ Fast Performance with Next.js
-- 🎯 Clean & Modern UI
-
-### 🛠 Built With
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,express,mongodb,firebase,tailwind"/>
-
-</div>
-
+<!-- <img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,express,mongodb,firebase,tailwind"/> -->
 ---
 
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32"> GitHub Statistics
