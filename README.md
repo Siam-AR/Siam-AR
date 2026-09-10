@@ -281,23 +281,32 @@
 
 <div align="center">
 
-<br>
+  <br>
 
-<!-- Daily Developer Quote Card -->
-<a href="https://github.com/Siam-AR">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord" alt="Daily Developer Quote" />
-</a>
+  <!-- Clean Thank You Card -->
+  <table style="border: 1px solid rgba(56, 189, 248, 0.2); border-radius: 16px; background: linear-gradient(145deg, #0d1117, #161b22); padding: 18px 28px; display: inline-table;">
+    <tr>
+      <td align="center">
+        <h3 style="margin: 0; color: #fff;">
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkling%20Heart.png" width="24" height="24" alt="Heart" style="vertical-align: middle;" /> Thanks for visiting my profile!
+        </h3>
+        <p style="margin: 8px 0 0 0; color: #8b949e; font-size: 0.9em;">
+          Have a project in mind or want to talk tech? Let’s collaborate and build something awesome together.
+        </p>
+      </td>
+    </tr>
+  </table>
 
-<br><br>
+  <br><br>
 
-<!-- Back to top jump button -->
-<a href="#top">
-  <img src="https://img.shields.io/badge/▲_BACK_TO_TOP-0D1117?style=for-the-badge&logoColor=38BDF8&labelColor=161B22&color=38BDF8" alt="Back to Top" height="30"/>
-</a>
+  <!-- Back To Top Jump Button -->
+  <a href="#top">
+    <img src="https://img.shields.io/badge/▲_BACK_TO_TOP-0D1117?style=for-the-badge&logoColor=38BDF8&labelColor=161B22&color=38BDF8" alt="Back to Top" height="30"/>
+  </a>
 
-<br><br>
+  <br><br>
 
-<!-- Nord Cyan Wave Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=90&section=footer" width="100%"/>
+  <!-- Nord Cyan Wave Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=90&section=footer" width="100%"/>
 
 </div>
