@@ -127,7 +127,7 @@
 
 <div align="center">
 
-## <code style="font-size: 2.00em; padding: 4px 14px; color: #38BDF8; font-weight: 800;">FEATURED PROJECT</code>
+## <code style="font-size: 3.00em; padding: 4px 14px; color: #38BDF8; font-weight: 800;">FEATURED PROJECT</code>
 
 <br>
 
@@ -213,7 +213,7 @@
 
   <!-- Animated Tech Icons Row -->
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,express,mongodb,firebase,tailwind&theme=dark" alt="Tech Stack Icons" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,express,mongodb,tailwind&theme=dark" alt="Tech Stack Icons" />
   </a>
 
   <br><br>
