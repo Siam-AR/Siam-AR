@@ -249,7 +249,7 @@
       <td align="center" style="border-right: 1px solid rgba(255,255,255,0.08); padding: 14px 20px; vertical-align: middle;">
         <p style="margin: 0 0 10px 0; color: #8b949e; font-size: 0.8em; font-weight: 700; letter-spacing: 1px;">FIND ME ON</p>
         <div style="display: flex; justify-content: center; align-items: center; gap: 8px;">
-          <a href="mailto:siam.ar.nexus@gmail.com" target="_blank" style="text-decoration: none !important;">
+          <a href="https://mail.google.com/mail/?view=cm&fs=1&to=siam.ar.nexus@gmail.com" target="_blank" style="text-decoration: none !important;">
             <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="38" height="38" alt="Gmail" />
           </a>
           <a href="https://linkedin.com/in/siam-ar" target="_blank" style="text-decoration: none !important;">
@@ -262,7 +262,7 @@
       </td>
       <td align="left" style="padding: 14px 20px; vertical-align: middle;">
         <p style="margin: 4px 0; color: #c9d1d9; font-size: 0.9em;">
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" width="18" height="18" alt="Email Icon" style="vertical-align: middle; margin-right: 6px;" /> <b style="color: #fff;">Email:</b> <a href="mailto:siam.ar.nexus@gmail.com" style="color: #38BDF8; text-decoration: none;">siam.ar.nexus@gmail.com</a>
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" width="18" height="18" alt="Email Icon" style="vertical-align: middle; margin-right: 6px;" /> <b style="color: #fff;">Email:</b> <a href="https://mail.google.com/mail/?view=cm&fs=1&to=siam.ar.nexus@gmail.com" target="_blank" style="color: #38BDF8; text-decoration: none;">siam.ar.nexus@gmail.com</a>
         </p>
         <p style="margin: 4px 0; color: #c9d1d9; font-size: 0.9em;">
           <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" width="18" height="18" alt="Phone Icon" style="vertical-align: middle; margin-right: 6px;" /> <b style="color: #fff;">Phone:</b> <a href="tel:+8801612890989" style="color: #8b949e; text-decoration: none;">+880 1612890989</a>
