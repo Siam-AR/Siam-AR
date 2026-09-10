@@ -229,11 +229,11 @@
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Siam-AR&theme=nord_dark" width="33%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Siam-AR&theme=nord_dark" width="32%" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Siam-AR&theme=nord_dark" width="33%" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Siam-AR&theme=nord_dark" width="33%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Siam-AR&theme=nord_dark" width="32%" />
 
 <br>
 
@@ -249,11 +249,11 @@
       <td align="center" style="border-right: 1px solid rgba(255,255,255,0.08); padding: 14px 20px; vertical-align: middle;">
         <p style="margin: 0 0 10px 0; color: #8b949e; font-size: 0.8em; font-weight: 700; letter-spacing: 1px;">FIND ME ON</p>
         <div style="display: flex; justify-content: center; align-items: center; gap: 8px;">
-          <a href="https://linkedin.com/in/siam-ar" target="_blank" style="text-decoration: none !important;">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="38" height="38" alt="LinkedIn" />
-          </a>
           <a href="mailto:siam.ar.nexus@gmail.com" target="_blank" style="text-decoration: none !important;">
             <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="38" height="38" alt="Gmail" />
+          </a>
+          <a href="https://linkedin.com/in/siam-ar" target="_blank" style="text-decoration: none !important;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="38" height="38" alt="LinkedIn" />
           </a>
           <a href="https://wa.me/8801612890989" target="_blank" style="text-decoration: none !important;">
             <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="38" height="38" alt="WhatsApp" />
