@@ -241,31 +241,27 @@
 
 ---
 
-# 🤝 Connect With Me
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="35" height="35" /> Connect With Me
 
 <div align="center">
-  <table style="border: 1px solid rgba(56,189,248,0.25); border-radius: 16px; background: linear-gradient(145deg, #0d1117, #161b22); padding: 10px; border-collapse: separate; border-spacing: 0; max-width: 780px; width: 100%;">
+  <table style="border: 1px solid rgba(56,189,248,0.25); border-radius: 16px; background: linear-gradient(145deg, #0d1117, #161b22); padding: 15px; border-collapse: separate; border-spacing: 0; max-width: 850px; width: 100%;">
     <tr>
-      <td width="48%" align="center" style="border-right: 1px solid rgba(255,255,255,0.08); padding: 15px 20px; vertical-align: middle;">
+      <td width="42%" align="center" style="border-right: 1px solid rgba(255,255,255,0.08); padding: 15px 20px; vertical-align: middle;">
         <p style="margin-bottom: 12px; color: #8b949e; font-size: 0.85em; font-weight: 700; letter-spacing: 1px;">FIND ME ON</p>
-        <a href="https://linkedin.com/in/siam-ar" target="_blank" style="margin: 0 6px; text-decoration: none;">
-          <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn" />
-        </a>
-        <a href="mailto:siam.ar.nexus@gmail.com" target="_blank" style="margin: 0 6px; text-decoration: none;">
-          <img src="https://skillicons.dev/icons?i=gmail" width="45" alt="Email" />
-        </a>
-        <a href="https://wa.me/8801612890989" target="_blank" style="margin: 0 6px; text-decoration: none;">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" width="45" height="45" alt="WhatsApp" />
-        </a>
+        <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+          <a href="https://linkedin.com/in/siam-ar" target="_blank" style="text-decoration: none !important; border-bottom: none;"><img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn" /></a>
+          <a href="mailto:siam.ar.nexus@gmail.com" target="_blank" style="text-decoration: none !important; border-bottom: none;"><img src="https://skillicons.dev/icons?i=gmail" width="45" alt="Email" /></a>
+          <a href="https://wa.me/8801612890989" target="_blank" style="text-decoration: none !important; border-bottom: none;"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" width="45" height="45" alt="WhatsApp" /></a>
+        </div>
       </td>
-      <td width="52%" align="left" style="padding: 15px 25px; vertical-align: middle;">
-        <p style="margin: 4px 0; color: #c9d1d9; font-size: 0.95em;">
+      <td width="58%" align="left" style="padding: 15px 25px; vertical-align: middle; white-space: nowrap;">
+        <p style="margin: 6px 0; color: #c9d1d9; font-size: 0.95em;">
           📧 <b style="color: #fff;">Email:</b> <a href="mailto:siam.ar.nexus@gmail.com" style="color: #38BDF8; text-decoration: none;">siam.ar.nexus@gmail.com</a>
         </p>
-        <p style="margin: 4px 0; color: #c9d1d9; font-size: 0.95em;">
+        <p style="margin: 6px 0; color: #c9d1d9; font-size: 0.95em;">
           📱 <b style="color: #fff;">Phone:</b> <a href="tel:+8801612890989" style="color: #8b949e; text-decoration: none;">+880 1612890989</a>
         </p>
-        <p style="margin: 4px 0; color: #c9d1d9; font-size: 0.95em;">
+        <p style="margin: 6px 0; color: #c9d1d9; font-size: 0.95em;">
           📍 <b style="color: #fff;">Location:</b> Dhaka, Bangladesh 🇧🇩
         </p>
       </td>
