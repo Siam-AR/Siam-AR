@@ -244,25 +244,29 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="35" height="35" /> Connect With Me
 
 <div align="center">
-  <table style="border: 1px solid rgba(56,189,248,0.25); border-radius: 16px; background: linear-gradient(145deg, #0d1117, #161b22); padding: 15px; border-collapse: separate; border-spacing: 0; max-width: 850px; width: 100%;">
+  <table width="100%" style="border: 1px solid rgba(56,189,248,0.25); border-radius: 16px; background: linear-gradient(145deg, #0d1117, #161b22); padding: 18px; border-collapse: separate; border-spacing: 0; max-width: 880px;">
     <tr>
-      <td width="42%" align="center" style="border-right: 1px solid rgba(255,255,255,0.08); padding: 15px 20px; vertical-align: middle;">
-        <p style="margin-bottom: 12px; color: #8b949e; font-size: 0.85em; font-weight: 700; letter-spacing: 1px;">FIND ME ON</p>
-        <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-          <a href="https://linkedin.com/in/siam-ar" target="_blank" style="text-decoration: none !important; border-bottom: none;"><img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn" /></a>
-          <a href="mailto:siam.ar.nexus@gmail.com" target="_blank" style="text-decoration: none !important; border-bottom: none;"><img src="https://skillicons.dev/icons?i=gmail" width="45" alt="Email" /></a>
-          <a href="https://wa.me/8801612890989" target="_blank" style="text-decoration: none !important; border-bottom: none;"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" width="45" height="45" alt="WhatsApp" /></a>
-        </div>
+      <td width="42%" align="center" style="border-right: 1px solid rgba(255,255,255,0.08); padding: 10px 20px; vertical-align: middle;">
+        <p style="margin-bottom: 14px; color: #8b949e; font-size: 0.85em; font-weight: 700; letter-spacing: 1px;">FIND ME ON</p>
+        <a href="https://linkedin.com/in/siam-ar" target="_blank" style="text-decoration: none !important; margin: 0 6px; display: inline-block;">
+          <img src="https://raw.githubusercontent.com/heyyczer/brands-icons/main/linkedin.gif" width="42" height="42" alt="LinkedIn" />
+        </a>
+        <a href="mailto:siam.ar.nexus@gmail.com" target="_blank" style="text-decoration: none !important; margin: 0 6px; display: inline-block;">
+          <img src="https://raw.githubusercontent.com/heyyczer/brands-icons/main/gmail.gif" width="42" height="42" alt="Email" />
+        </a>
+        <a href="https://wa.me/8801612890989" target="_blank" style="text-decoration: none !important; margin: 0 6px; display: inline-block;">
+          <img src="https://raw.githubusercontent.com/heyyczer/brands-icons/main/whatsapp.gif" width="42" height="42" alt="WhatsApp" />
+        </a>
       </td>
-      <td width="58%" align="left" style="padding: 15px 25px; vertical-align: middle; white-space: nowrap;">
-        <p style="margin: 6px 0; color: #c9d1d9; font-size: 0.95em;">
+      <td width="58%" align="left" nowrap="nowrap" style="padding: 10px 25px; vertical-align: middle; white-space: nowrap;">
+        <p style="margin: 6px 0; color: #c9d1d9; font-size: 0.95em; white-space: nowrap;">
           📧 <b style="color: #fff;">Email:</b> <a href="mailto:siam.ar.nexus@gmail.com" style="color: #38BDF8; text-decoration: none;">siam.ar.nexus@gmail.com</a>
         </p>
-        <p style="margin: 6px 0; color: #c9d1d9; font-size: 0.95em;">
+        <p style="margin: 6px 0; color: #c9d1d9; font-size: 0.95em; white-space: nowrap;">
           📱 <b style="color: #fff;">Phone:</b> <a href="tel:+8801612890989" style="color: #8b949e; text-decoration: none;">+880 1612890989</a>
         </p>
-        <p style="margin: 6px 0; color: #c9d1d9; font-size: 0.95em;">
-          📍 <b style="color: #fff;">Location:</b> Dhaka, Bangladesh 🇧🇩
+        <p style="margin: 6px 0; color: #c9d1d9; font-size: 0.95em; white-space: nowrap;">
+          📍 <b style="color: #fff;">Location:</b> Dhaka, Bangladesh <img src="https://flagcdn.com/20x15/bd.png" width="20" height="15" alt="Bangladesh Flag" style="vertical-align: middle; display: inline-block; margin-left: 2px;" />
         </p>
       </td>
     </tr>
