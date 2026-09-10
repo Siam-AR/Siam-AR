@@ -156,9 +156,8 @@
 <br>
 
 <!-- ============ The 'Hero' Screenshot with Border & Glow ============ -->
-<div align="center" style="padding: 15px; background: linear-gradient(145deg, #0d1117, #161b22); border: 2px solid rgba(255,119,0,0.3); border-radius: 20px; box-shadow: 0 20px 50px rgba(0,0,0,0.5);">
-  <img src="https://github.com/user-attachments/assets/29fa84d2-c065-4b6a-b478-f09c88c33b0b" alt="SkillSwap Platform" width="100%" style="border-radius: 12px; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 0 30px rgba(110, 0, 255, 0.25);">
-
+<div align="center" style="padding: 15px; background: linear-gradient(145deg, #0d1117, #161b22); border: 2px solid rgba(255,119,0,0.4); border-radius: 20px; box-shadow: 0 20px 50px rgba(0,0,0,0.5);">
+  <img src="https://github.com/user-attachments/assets/29fa84d2-c065-4b6a-b478-f09c88c33b0b" alt="SkillSwap Platform" width="100%" style="display: block; border-radius: 12px; border: 2px solid rgba(255, 255, 255, 0.15); box-shadow: 0 0 30px rgba(110, 0, 255, 0.3);" />
 </div>
 
 </div>
