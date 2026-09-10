@@ -244,31 +244,31 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="35" height="35" /> Connect With Me
 
 <div align="center">
-  <table width="100%" style="border: 1px solid rgba(56,189,248,0.25); border-radius: 16px; background: linear-gradient(145deg, #0d1117, #161b22); padding: 18px; border-collapse: separate; border-spacing: 0; max-width: 880px;">
+  <table style="border: 1px solid rgba(56,189,248,0.25); border-radius: 16px; background: linear-gradient(145deg, #0d1117, #161b22); border-collapse: separate; border-spacing: 0; display: inline-table; width: auto; max-width: 100%;">
     <tr>
-      <td width="42%" align="center" style="border-right: 1px solid rgba(255,255,255,0.08); padding: 10px 20px; vertical-align: middle;">
-        <p style="margin-bottom: 14px; color: #8b949e; font-size: 0.85em; font-weight: 700; letter-spacing: 1px;">FIND ME ON</p>
-        <div style="display: flex; justify-content: center; align-items: center;">
-          <a href="https://linkedin.com/in/siam-ar" target="_blank" style="text-decoration: none !important; margin: 0 5px; display: inline-block;">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="44" height="44" alt="LinkedIn" />
+      <td align="center" style="border-right: 1px solid rgba(255,255,255,0.08); padding: 14px 20px; vertical-align: middle;">
+        <p style="margin: 0 0 10px 0; color: #8b949e; font-size: 0.8em; font-weight: 700; letter-spacing: 1px;">FIND ME ON</p>
+        <div style="display: flex; justify-content: center; align-items: center; gap: 8px;">
+          <a href="https://linkedin.com/in/siam-ar" target="_blank" style="text-decoration: none !important;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="38" height="38" alt="LinkedIn" />
           </a>
-          <a href="mailto:siam.ar.nexus@gmail.com" target="_blank" style="text-decoration: none !important; margin: 0 5px; display: inline-block;">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="44" height="44" alt="Gmail" />
+          <a href="mailto:siam.ar.nexus@gmail.com" target="_blank" style="text-decoration: none !important;">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="38" height="38" alt="Gmail" />
           </a>
-          <a href="https://wa.me/8801612890989" target="_blank" style="text-decoration: none !important; margin: 0 5px; display: inline-block;">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="44" height="44" alt="WhatsApp" />
+          <a href="https://wa.me/8801612890989" target="_blank" style="text-decoration: none !important;">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="38" height="38" alt="WhatsApp" />
           </a>
         </div>
       </td>
-      <td width="58%" align="left" nowrap="nowrap" style="padding: 10px 25px; vertical-align: middle; white-space: nowrap;">
-        <p style="margin: 6px 0; color: #c9d1d9; font-size: 0.95em; white-space: nowrap;">
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" width="20" height="20" alt="Email Icon" style="vertical-align: middle; margin-right: 6px;" /> <b style="color: #fff;">Email:</b> <a href="mailto:siam.ar.nexus@gmail.com" style="color: #38BDF8; text-decoration: none;">siam.ar.nexus@gmail.com</a>
+      <td align="left" style="padding: 14px 20px; vertical-align: middle;">
+        <p style="margin: 4px 0; color: #c9d1d9; font-size: 0.9em;">
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" width="18" height="18" alt="Email Icon" style="vertical-align: middle; margin-right: 6px;" /> <b style="color: #fff;">Email:</b> <a href="mailto:siam.ar.nexus@gmail.com" style="color: #38BDF8; text-decoration: none;">siam.ar.nexus@gmail.com</a>
         </p>
-        <p style="margin: 6px 0; color: #c9d1d9; font-size: 0.95em; white-space: nowrap;">
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" width="20" height="20" alt="Phone Icon" style="vertical-align: middle; margin-right: 6px;" /> <b style="color: #fff;">Phone:</b> <a href="tel:+8801612890989" style="color: #8b949e; text-decoration: none;">+880 1612890989</a>
+        <p style="margin: 4px 0; color: #c9d1d9; font-size: 0.9em;">
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" width="18" height="18" alt="Phone Icon" style="vertical-align: middle; margin-right: 6px;" /> <b style="color: #fff;">Phone:</b> <a href="tel:+8801612890989" style="color: #8b949e; text-decoration: none;">+880 1612890989</a>
         </p>
-        <p style="margin: 6px 0; color: #c9d1d9; font-size: 0.95em; white-space: nowrap;">
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/World%20Map.png" width="22" height="22" alt="Map Pin Icon" style="vertical-align: middle; margin-right: 6px;" /> <b style="color: #fff;">Location:</b> Dhaka, Bangladesh <img src="https://flagcdn.com/20x15/bd.png" width="20" height="15" alt="Bangladesh Flag" style="vertical-align: middle; display: inline-block; margin-left: 4px;" />
+        <p style="margin: 4px 0; color: #c9d1d9; font-size: 0.9em;">
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/World%20Map.png" width="18" height="18" alt="Map Icon" style="vertical-align: middle; margin-right: 6px;" /> <b style="color: #fff;">Location:</b> Dhaka, Bangladesh <img src="https://flagcdn.com/20x15/bd.png" width="18" height="13" alt="Bangladesh Flag" style="vertical-align: middle; display: inline-block; margin-left: 4px;" />
         </p>
       </td>
     </tr>
