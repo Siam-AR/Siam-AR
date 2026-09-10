@@ -19,9 +19,9 @@
     <!-- Standard Rounded Badge Base (#242938) -->
     <rect width="128" height="128" rx="24" fill="#242938"/>
 
-    <!-- Scaled & Perfectly Centered MySQL Dolphin + Typography -->
-    <g transform="translate(64, 64) scale(1.9) translate(-24, -24)">
-      <!-- My Wordmark (Brightened to High-Contrast Cyan for Dark Badge) -->
+    <!-- Scaled Up & Perfectly Centered MySQL Artwork (Preserves Exact Layout & Animation) -->
+    <g transform="translate(64, 64) scale(2.4) translate(-24, -24)">
+      <!-- My Wordmark (High-Contrast Cyan for Dark Badge) -->
       <path fill="#38BDF8" d="M0.002,35.041h1.92v-7.085l2.667,6.057c0.329,0.755,0.779,1.022,1.662,1.022 s1.315-0.267,1.644-1.022l2.667-5.902v6.93h1.92v-7.258c0-0.697-0.277-1.035-0.849-1.209c-1.367-0.43-2.285-0.059-2.7,0.872 l-2.735,6.16l-2.649-6.16c-0.398-0.93-1.332-1.302-2.7-0.872C0.277,26.748,0,27.085,0,27.782v7.258H0.002z"/>
       <path fill="#38BDF8" d="M13.441,29.281h1.92v4.055c-0.015,0.2,0.064,0.731,0.99,0.745c0.472,0.008,2.821,0,2.85,0v-4.8h1.92 c0.008,0,0,5.968,0,5.993c0.01,1.472-1.828,1.662-2.673,1.687h-5.006v-0.96c0.01,0,4.787,0.001,4.801,0 c1.088-0.115,0.959-0.714,0.959-0.896v-0.064H16.19c-1.67-0.015-2.735-0.751-2.747-1.59C13.441,33.373,13.479,29.317,13.441,29.281 z"/>
 
