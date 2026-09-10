@@ -283,16 +283,13 @@
 
   <br>
 
-  <!-- Clean Thank You Card -->
-  <table style="border: 1px solid rgba(56, 189, 248, 0.2); border-radius: 16px; background: linear-gradient(145deg, #0d1117, #161b22); padding: 18px 28px; display: inline-table;">
+  <!-- Animated Thank You Container -->
+  <table style="border: 1px solid rgba(56, 189, 248, 0.25); border-radius: 16px; background: linear-gradient(145deg, #0d1117, #161b22); padding: 12px 24px; display: inline-table;">
     <tr>
-      <td align="center">
-        <h3 style="margin: 0; color: #fff;">
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkling%20Heart.png" width="24" height="24" alt="Heart" style="vertical-align: middle;" /> Thanks for visiting my profile!
-        </h3>
-        <p style="margin: 8px 0 0 0; color: #8b949e; font-size: 0.9em;">
-          Have a project in mind or want to talk tech? Let’s collaborate and build something awesome together.
-        </p>
+      <td align="center" style="vertical-align: middle;">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkling%20Heart.png" width="30" height="30" alt="Heart" style="vertical-align: middle; margin-right: 8px;" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=38BDF8&center=true&vCenter=true&width=400&height=32&lines=Thanks+for+visiting+my+profile!;Happy+coding+and+keep+building!;" alt="Animated Thanks" style="vertical-align: middle;" />
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30" height="30" alt="Wave" style="vertical-align: middle; margin-left: 8px;" />
       </td>
     </tr>
   </table>
