@@ -168,7 +168,7 @@
 <table width="100%" style="border: none;">
   <tr>
     <td width="50%" style="background: rgba(255, 255, 255, 0.02); border: 1px solid rgba(255, 255, 255, 0.08); border-radius: 12px; padding: 20px; vertical-align: top;">
-      <h4 style="color: #fff;">🔐 Better Authentication</h4>
+      <h4 style="color: #fff;">🔐 Authentication</h4>
       <p style="color: #8b949e; font-size: 0.95em;">Secure authentication with Better Auth, featuring Google OAuth, persistent sessions, and protected user roles.</p>
     </td>
     <td width="50%" style="background: rgba(255, 255, 255, 0.02); border: 1px solid rgba(255, 255, 255, 0.08); border-radius: 12px; padding: 20px; vertical-align: top;">
