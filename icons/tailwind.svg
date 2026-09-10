@@ -4,24 +4,24 @@
     <!-- Standard Rounded Badge Base (#242938) -->
     <rect width="128" height="128" rx="24" fill="#242938"/>
 
-    <!-- Precisely Centered Group (Horizontally & Vertically Balanced) -->
-    <g transform="translate(64, 52)">
-      <!-- Centered Official Twin Waves -->
-      <g transform="translate(-46, -24) scale(0.44)" fill="#38BDF8">
+    <!-- Scaled Up & Balanced Vertical Layout -->
+    <g transform="translate(64, 56)">
+      <!-- Scaled Up Official Twin Waves (Enlarged and Shifted Down) -->
+      <g transform="translate(-54, -30) scale(0.52)" fill="#38BDF8">
         <path d="M125 0c-23.5 0-39 11.7-46.8 35.1 8.9-11.7 19.5-16.1 32.2-13.2 7.2 1.6 12.4 6.9 18.2 12.9 9.5 9.8 20.3 20.7 44.2 20.7 23.5 0 39-11.7 46.8-35.1-8.9 11.7-19.5 16.1-32.2 13.2-7.2-1.6-12.4-6.9-18.2-12.9-9.5-9.8-20.3-20.7-44.2-20.7z"/>
         <path d="M63 32c-23.5 0-39 11.7-46.8 35.1 8.9-11.7 19.5-16.1 32.2-13.2 7.2 1.6 12.4 6.9 18.2 12.9 9.5 9.8 20.3 20.7 44.2 20.7 23.5 0 39-11.7 46.8-35.1-8.9 11.7-19.5 16.1-32.2 13.2-7.2-1.6-12.4-6.9-18.2-12.9-9.5-9.8-20.3-20.7-44.2-20.7z"/>
       </g>
 
-      <!-- Tailwind CSS Wordmark Perfectly Centered Below -->
+      <!-- Tailwind CSS Wordmark Scaled & Positioned Lower -->
       <text 
         x="0" 
-        y="46" 
+        y="49" 
         text-anchor="middle" 
         fill="#FFFFFF" 
         font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" 
-        font-size="15" 
+        font-size="16" 
         font-weight="700" 
-        letter-spacing="-0.3px">Tailwind CSS</text>
+        letter-spacing="-0.2px">Tailwind CSS</text>
     </g>
 
     <!-- Synced SMIL Floating Animation Loop -->
