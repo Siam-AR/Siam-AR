@@ -227,13 +227,13 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Siam-AR&theme=nord_dark" width="100%" />
 
-<br>
+<br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Siam-AR&theme=nord_dark" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Siam-AR&theme=nord_dark" width="33%" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Siam-AR&theme=nord_dark" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Siam-AR&theme=nord_dark" width="33%" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Siam-AR&theme=nord_dark" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Siam-AR&theme=nord_dark" width="33%" />
 
 <br>
 
