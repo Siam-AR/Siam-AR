@@ -249,14 +249,14 @@
       <td width="42%" align="center" style="border-right: 1px solid rgba(255,255,255,0.08); padding: 10px 20px; vertical-align: middle;">
         <p style="margin-bottom: 14px; color: #8b949e; font-size: 0.85em; font-weight: 700; letter-spacing: 1px;">FIND ME ON</p>
         <div style="display: flex; justify-content: center; align-items: center;">
-          <a href="https://linkedin.com/in/siam-ar" target="_blank" style="text-decoration: none !important; margin: 0 4px; display: inline-block;">
-            <img src="https://skillicons.dev/icons?i=linkedin" width="45" height="45" alt="LinkedIn" />
+          <a href="https://linkedin.com/in/siam-ar" target="_blank" style="text-decoration: none !important; margin: 0 5px; display: inline-block;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="44" height="44" alt="LinkedIn" />
           </a>
-          <a href="mailto:siam.ar.nexus@gmail.com" target="_blank" style="text-decoration: none !important; margin: 0 4px; display: inline-block;">
-            <img src="https://skillicons.dev/icons?i=gmail" width="45" height="45" alt="Gmail" />
+          <a href="mailto:siam.ar.nexus@gmail.com" target="_blank" style="text-decoration: none !important; margin: 0 5px; display: inline-block;">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="44" height="44" alt="Gmail" />
           </a>
-          <a href="https://wa.me/8801612890989" target="_blank" style="text-decoration: none !important; margin: 0 4px; display: inline-block;">
-            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" width="45" height="45" alt="WhatsApp" />
+          <a href="https://wa.me/8801612890989" target="_blank" style="text-decoration: none !important; margin: 0 5px; display: inline-block;">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="44" height="44" alt="WhatsApp" />
           </a>
         </div>
       </td>
