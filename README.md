@@ -135,7 +135,7 @@
 <br>
 
 <!-- ============ GitHub-Supported Animated Title Banner ============ -->
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=40&pause=1000&color=FF7700&center=true&vCenter=true&width=500&height=60&lines=SkillSwap;" alt="SkillSwap Animated Title">
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=40&pause=1000&color=FF7700&center=true&vCenter=true&width=500&height=60&lines=SkillSwap;Micro-Task+Platform;Exchange+Marketplace" alt="SkillSwap Animated Title">
 
 <p align="center" style="color: #8b949e; font-size: 1.2em;">
   <em>A Modern Full-Stack Micro-Task &amp; Skill Exchange Marketplace</em>
@@ -145,10 +145,10 @@
 <div align="center">
   <br>
   <a href="https://skill-swap-client-a10.vercel.app" style="text-decoration: none; margin: 0 10px;" target="_blank">
-    <img src="https://img.shields.io/badge/%20Live%20Demo-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo">
+    <img src="https://img.shields.io/badge/🌐%20Live%20Demo-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo">
   </a>
   <a href="https://github.com/siam-ar/skillSwap-client" style="text-decoration: none; margin: 0 10px;" target="_blank">
-    <img src="https://img.shields.io/badge/%20Source%20Code-000?style=for-the-badge&logo=github&logoColor=white" alt="Source Code">
+    <img src="https://img.shields.io/badge/💻%20Source%20Code-000?style=for-the-badge&logo=github&logoColor=white" alt="Source Code">
   </a>
   <br>
 </div>
@@ -157,9 +157,7 @@
 
 <!-- ============ The 'Hero' Screenshot with a subtle glow ============ -->
 <div align="center" style="padding: 15px; background: linear-gradient(145deg, #0d1117, #161b22); border: 1px solid rgba(255,255,255,0.08); border-radius: 20px; box-shadow: 0 20px 50px rgba(0,0,0,0.5);">
-  
-<img width="1887" height="873" alt="SkillSwap" src="https://github.com/user-attachments/assets/56ef4bb5-f908-4e97-9396-f9a3c1376ebf" />
-  
+  <img src="https://legiit.com/AIbro/beautiful-hero-section-design-with-elementor" alt="SkillSwap Platform" width="100%" style="border-radius: 12px; box-shadow: 0 0 30px rgba(110, 0, 255, 0.25);">
 </div>
 
 </div>
@@ -229,31 +227,47 @@
     </a>
   </div>
 
-  <!-- Structured Technology Breakdown Sub-cards -->
-  <table width="100%" style="border: none; text-align: left; border-collapse: separate; border-spacing: 12px 0;">
-    <tr>
-      <td width="33%" style="vertical-align: top; padding: 18px; background: rgba(255,255,255,0.03); border-radius: 12px; border: 1px solid rgba(255,255,255,0.05);">
-        <strong style="color: #fff; font-size: 0.9em;">Frontend App</strong>
-        <p style="color: #8b949e; font-size: 0.85em; margin-top: 6px; line-height: 1.4;">Next.js 16, React 19, Tailwind CSS, HeroUI</p>
-      </td>
-      <td width="33%" style="vertical-align: top; padding: 18px; background: rgba(255,255,255,0.03); border-radius: 12px; border: 1px solid rgba(255,255,255,0.05);">
-        <strong style="color: #fff; font-size: 0.9em;">Backend Server</strong>
-        <p style="color: #8b949e; font-size: 0.85em; margin-top: 6px; line-height: 1.4;">Node.js, Express 5 REST API</p>
-      </td>
-      <td width="33%" style="vertical-align: top; padding: 18px; background: rgba(255,255,255,0.03); border-radius: 12px; border: 1px solid rgba(255,255,255,0.05);">
-        <strong style="color: #fff; font-size: 0.9em;">Database &amp; Services</strong>
-        <p style="color: #8b949e; font-size: 0.85em; margin-top: 6px; line-height: 1.4;">MongoDB Atlas, BetterAuth, Stripe.js</p>
-      </td>
-    </tr>
-  </table>
+  <!-- GitHub-Safe Stack Breakdown Cards using Styled Divs -->
+  <div style="display: flex; gap: 15px; text-align: left; justify-content: center; flex-wrap: wrap;">
+    
+    <!-- Card 1 -->
+    <div style="flex: 1; min-width: 200px; padding: 18px; background: rgba(255,255,255,0.03); border-radius: 12px; border: 1px solid rgba(255,255,255,0.05);">
+      <strong style="color: #fff; font-size: 0.9em;">Frontend App</strong>
+      <p style="color: #8b949e; font-size: 0.85em; margin-top: 6px; margin-bottom: 0; line-height: 1.4;">Next.js 16, React 19, Tailwind CSS, HeroUI</p>
+    </div>
+
+    <!-- Card 2 -->
+    <div style="flex: 1; min-width: 200px; padding: 18px; background: rgba(255,255,255,0.03); border-radius: 12px; border: 1px solid rgba(255,255,255,0.05);">
+      <strong style="color: #fff; font-size: 0.9em;">Backend Server</strong>
+      <p style="color: #8b949e; font-size: 0.85em; margin-top: 6px; margin-bottom: 0; line-height: 1.4;">Node.js, Express 5 REST API</p>
+    </div>
+
+    <!-- Card 3 -->
+    <div style="flex: 1; min-width: 200px; padding: 18px; background: rgba(255,255,255,0.03); border-radius: 12px; border: 1px solid rgba(255,255,255,0.05);">
+      <strong style="color: #fff; font-size: 0.9em;">Database &amp; Services</strong>
+      <p style="color: #8b949e; font-size: 0.85em; margin-top: 6px; margin-bottom: 0; line-height: 1.4;">MongoDB Atlas, BetterAuth, Stripe.js</p>
+    </div>
+
+  </div>
 
 </div>
 
 <br>
 <hr>
 <br>
-<br>
 
+<!-- ============ Footer / Connect Call to Action ============ -->
+
+<div align="center" style="padding: 35px; background: linear-gradient(145deg, #0d1117, #161b22); border-radius: 20px; border: 1px solid rgba(255,255,255,0.08); box-shadow: 0 20px 50px rgba(0,0,0,0.5);">
+  <p style="font-size: 1.15em; font-weight: 600; color: #fff; margin-bottom: 5px;">Built with passion and code by <b>Siam Al Rabbi</b></p>
+  <p style="color: #8b949e; font-size: 0.95em; margin-bottom: 20px;">If you like SkillSwap, consider giving it a ⭐ on GitHub!</p>
+  
+  <a href="https://github.com/siam-ar/skillSwap-client" target="_blank">
+    <img src="https://img.shields.io/badge/Star%20this%20Repo-ffb800?style=for-the-badge&logo=starship&logoColor=black" alt="Star Badge">
+  </a>
+</div>
+
+<br>
 <!-- <img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,express,mongodb,firebase,tailwind"/> -->
 ---
 
