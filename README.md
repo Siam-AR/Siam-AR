@@ -241,12 +241,27 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Siam-AR&show_icons=true&hide_border=true&title_color=38BDF8&icon_color=38BDF8&text_color=D8DEE9&bg_color=2E3440" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siam-AR&layout=compact&hide_border=true&title_color=38BDF8&text_color=D8DEE9&bg_color=2E3440" width="46%" />
+  <!-- Top Overview Card -->
+  <div style="border-radius: 12px; overflow: hidden; display: inline-block; width: 100%; border: 1px solid rgba(255,255,255,0.08); background: #2e3440;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Siam-AR&theme=nord_dark" width="100%" style="display: block; margin: -1px;" />
+  </div>
 
-<br><br>
+  <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Siam-AR&hide_border=true&stroke=2E3440&background=2E3440&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=D8DEE9&dates=81A1C1" width="96%" />
+  <!-- 3 Bottom Cards -->
+  <table width="100%" style="border: none; border-collapse: separate; border-spacing: 10px 0;">
+    <tr>
+      <td width="33.3%" style="padding: 0; border: 1px solid rgba(255,255,255,0.08); border-radius: 12px; overflow: hidden; background: #2e3440;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Siam-AR&theme=nord_dark" width="100%" style="display: block; margin: -1px;" />
+      </td>
+      <td width="33.3%" style="padding: 0; border: 1px solid rgba(255,255,255,0.08); border-radius: 12px; overflow: hidden; background: #2e3440;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Siam-AR&theme=nord_dark" width="100%" style="display: block; margin: -1px;" />
+      </td>
+      <td width="33.3%" style="padding: 0; border: 1px solid rgba(255,255,255,0.08); border-radius: 12px; overflow: hidden; background: #2e3440;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Siam-AR&theme=nord_dark" width="100%" style="display: block; margin: -1px;" />
+      </td>
+    </tr>
+  </table>
 
 </div>
 
