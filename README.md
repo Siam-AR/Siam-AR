@@ -279,31 +279,25 @@
 
 ---
 
-<div align="center">
-
-  <br>
-
-  <!-- Animated Thank You Banner with 5-second Hold -->
-  <table style="border: 1px solid rgba(56, 189, 248, 0.25); border-radius: 16px; background: linear-gradient(145deg, #0d1117, #161b22); padding: 12px 24px; display: inline-table;">
+<div align="center" style="margin-top: 15px;">
+  <!-- Animated Thank You Banner -->
+  <table style="border: 1px solid rgba(56, 189, 248, 0.25); border-radius: 16px; background: linear-gradient(145deg, #0d1117, #161b22); padding: 8px 18px; display: inline-table; margin-bottom: 12px;">
     <tr>
       <td align="center" style="vertical-align: middle;">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkling%20Heart.png" width="30" height="30" alt="Heart" style="vertical-align: middle; margin-right: 8px;" />
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=4500&pause=5000&color=38BDF8&center=true&vCenter=true&width=400&height=32&lines=Thanks+for+visiting+my+profile!;Happy+coding+and+keep+building!;" alt="Animated Thanks" style="vertical-align: middle;" />
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30" height="30" alt="Wave" style="vertical-align: middle; margin-left: 8px;" />
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkling%20Heart.png" width="28" height="28" alt="Heart" style="vertical-align: middle; margin-right: 6px;" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=4500&pause=5000&color=38BDF8&center=true&vCenter=true&width=360&height=28&lines=Thanks+for+visiting+my+profile!;Happy+coding+and+keep+building!;" alt="Animated Thanks" style="vertical-align: middle;" />
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="28" height="28" alt="Wave" style="vertical-align: middle; margin-left: 6px;" />
       </td>
     </tr>
   </table>
 
-  <br><br>
-
-  <!-- Back To Top Jump Button -->
-  <a href="#top">
-    <img src="https://img.shields.io/badge/▲_BACK_TO_TOP-0D1117?style=for-the-badge&logoColor=38BDF8&labelColor=161B22&color=38BDF8" alt="Back to Top" height="30"/>
-  </a>
-
-  <br><br>
+  <div>
+    <!-- Back To Top Jump Button -->
+    <a href="#top" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/▲_BACK_TO_TOP-0D1117?style=for-the-badge&logoColor=38BDF8&labelColor=161B22&color=38BDF8" alt="Back to Top" height="28"/>
+    </a>
+  </div>
 
   <!-- Nord Cyan Wave Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=90&section=footer" width="100%"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=80&section=footer" width="100%" style="display: block; margin-top: 10px;"/>
 </div>
