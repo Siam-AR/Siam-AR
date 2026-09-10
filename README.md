@@ -249,24 +249,24 @@
       <td width="42%" align="center" style="border-right: 1px solid rgba(255,255,255,0.08); padding: 10px 20px; vertical-align: middle;">
         <p style="margin-bottom: 14px; color: #8b949e; font-size: 0.85em; font-weight: 700; letter-spacing: 1px;">FIND ME ON</p>
         <a href="https://linkedin.com/in/siam-ar" target="_blank" style="text-decoration: none !important; margin: 0 6px; display: inline-block;">
-          <img src="https://raw.githubusercontent.com/heyyczer/brands-icons/main/linkedin.gif" width="42" height="42" alt="LinkedIn" />
+          <img src="https://media.giphy.com/media/USsKG4E7ns7YCYVHQ0/giphy.gif" width="45" height="45" alt="LinkedIn" />
         </a>
         <a href="mailto:siam.ar.nexus@gmail.com" target="_blank" style="text-decoration: none !important; margin: 0 6px; display: inline-block;">
-          <img src="https://raw.githubusercontent.com/heyyczer/brands-icons/main/gmail.gif" width="42" height="42" alt="Email" />
+          <img src="https://media.giphy.com/media/gFu1vB8glcLsCVWVOT/giphy.gif" width="45" height="45" alt="Gmail" />
         </a>
         <a href="https://wa.me/8801612890989" target="_blank" style="text-decoration: none !important; margin: 0 6px; display: inline-block;">
-          <img src="https://raw.githubusercontent.com/heyyczer/brands-icons/main/whatsapp.gif" width="42" height="42" alt="WhatsApp" />
+          <img src="https://media.giphy.com/media/dypshbw6S8J7j67W6c/giphy.gif" width="45" height="45" alt="WhatsApp" />
         </a>
       </td>
       <td width="58%" align="left" nowrap="nowrap" style="padding: 10px 25px; vertical-align: middle; white-space: nowrap;">
         <p style="margin: 6px 0; color: #c9d1d9; font-size: 0.95em; white-space: nowrap;">
-          📧 <b style="color: #fff;">Email:</b> <a href="mailto:siam.ar.nexus@gmail.com" style="color: #38BDF8; text-decoration: none;">siam.ar.nexus@gmail.com</a>
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" width="20" height="20" alt="Email Icon" style="vertical-align: middle; margin-right: 5px;" /> <b style="color: #fff;">Email:</b> <a href="mailto:siam.ar.nexus@gmail.com" style="color: #38BDF8; text-decoration: none;">siam.ar.nexus@gmail.com</a>
         </p>
         <p style="margin: 6px 0; color: #c9d1d9; font-size: 0.95em; white-space: nowrap;">
-          📱 <b style="color: #fff;">Phone:</b> <a href="tel:+8801612890989" style="color: #8b949e; text-decoration: none;">+880 1612890989</a>
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" width="20" height="20" alt="Phone Icon" style="vertical-align: middle; margin-right: 5px;" /> <b style="color: #fff;">Phone:</b> <a href="tel:+8801612890989" style="color: #8b949e; text-decoration: none;">+880 1612890989</a>
         </p>
         <p style="margin: 6px 0; color: #c9d1d9; font-size: 0.95em; white-space: nowrap;">
-          📍 <b style="color: #fff;">Location:</b> Dhaka, Bangladesh <img src="https://flagcdn.com/20x15/bd.png" width="20" height="15" alt="Bangladesh Flag" style="vertical-align: middle; display: inline-block; margin-left: 2px;" />
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Round%20Pushpin.png" width="20" height="20" alt="Location Icon" style="vertical-align: middle; margin-right: 5px;" /> <b style="color: #fff;">Location:</b> Dhaka, Bangladesh <img src="https://flagcdn.com/20x15/bd.png" width="20" height="15" alt="Bangladesh Flag" style="vertical-align: middle; display: inline-block; margin-left: 4px;" />
         </p>
       </td>
     </tr>
