@@ -15,7 +15,8 @@
 
 </div>
 
----
+<br>
+
 <table border="0" width="100%">
   <tr>
     <td width="60%" valign="top">
@@ -28,7 +29,7 @@
         <li> <b>Learning:</b> Deep Learning, AI integrations &amp; System Design</li>
         <li> <b>Ask Me:</b> React, Next.js, Node.js, Express, MongoDB, TypeScript</li>
         <li> <b>Looking to Collaborate:</b> High-impact full-stack web apps</li>
-        <li> <b>Social:</b> <a href="https://linkedin.com/in/siam-ar">LinkedIn</a></li>
+        <li> <b>Social:</b> <a href="https://linkedin.com/in/siam-ar" style="text-decoration: none;">LinkedIn</a></li>
         <li> <b>Focus:</b> Clean, modular, type-safe engineering</li>
         <li> <b>Fun Fact:</b> The only thing faster than my compiler is my brain in the last hour before submission.</li>
       </ul>
@@ -40,14 +41,19 @@
   </tr>
 </table>
 
----
+<br>
 
+<div align="center">
+  <h2>
+    <code><a href="https://github.com/siam-ar" style="color: #38BDF8; text-decoration: none; font-weight: 700; background: rgba(56, 189, 248, 0.1); padding: 8px 16px; border-radius: 8px; border: 1px solid rgba(56, 189, 248, 0.2); display: inline-block;"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28" style="vertical-align: middle;"> TECH STACK</a></code>
+  </h2>
+</div>
 
-# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32"> Tech Stack
+<br>
 
 <div align="center">
 
-## <code><a href="https://github.com/siam-ar" style="color: #38BDF8; text-decoration: none; font-weight: 700;">PROGRAMMING LANGUAGES</a></code>
+<h3><code><a href="https://github.com/siam-ar" style="color: #38BDF8; text-decoration: none; font-weight: 700;">PROGRAMMING LANGUAGES</a></code></h3>
 <p align="center">
   <img src="./icons/js.svg" width="70" height="70" alt="JavaScript" />
   <img src="./icons/ts.svg" width="70" height="70" alt="TypeScript" />
@@ -58,9 +64,8 @@
 
 <br>
 
-## <code><a href="https://github.com/siam-ar" style="color: #38BDF8; text-decoration: none; font-weight: 700;">FRONTEND</a></code>
+<h3><code><a href="https://github.com/siam-ar" style="color: #38BDF8; text-decoration: none; font-weight: 700;">FRONTEND</a></code></h3>
 <p align="center">
-
   <img src="./icons/html.svg" width="70" height="70" alt="HTML5" />
   <img src="./icons/css.svg" width="70" height="70" alt="CSS3" />
   <img src="./icons/react.svg" width="70" height="70" alt="React" />
@@ -70,7 +75,7 @@
 
 <br>
 
-## <code><a href="https://github.com/siam-ar" style="color: #38BDF8; text-decoration: none; font-weight: 700;">BACKEND</a></code>
+<h3><code><a href="https://github.com/siam-ar" style="color: #38BDF8; text-decoration: none; font-weight: 700;">BACKEND</a></code></h3>
 <p align="center">
   <img src="./icons/nodejs.svg" width="70" height="70" alt="Node.js" />
   <img src="./icons/express.svg" width="70" height="70" alt="Express.js" />
@@ -78,7 +83,7 @@
 
 <br>
 
-## <code><a href="https://github.com/siam-ar" style="color: #38BDF8; text-decoration: none; font-weight: 700;">DATABASES & ORMS</a></code>
+<h3><code><a href="https://github.com/siam-ar" style="color: #38BDF8; text-decoration: none; font-weight: 700;">DATABASES & ORMS</a></code></h3>
 <p align="center">
   <img src="./icons/mongodb.svg" width="70" height="70" alt="MongoDB" />
   <img src="./icons/postgres.svg" width="70" height="70" alt="PostgreSQL" />
@@ -87,7 +92,7 @@
 
 <br>
 
-## <code><a href="https://github.com/siam-ar" style="color: #38BDF8; text-decoration: none; font-weight: 700;">AUTH & SECURITY</a></code>
+<h3><code><a href="https://github.com/siam-ar" style="color: #38BDF8; text-decoration: none; font-weight: 700;">AUTH & SECURITY</a></code></h3>
 <p align="center">
   <img src="./icons/jwt.svg" width="80" height="80" alt="JWT" />
   <img src="./icons/bycrypt.svg" width="80" height="80" alt="bycrypt" />
@@ -97,39 +102,30 @@
 
 <br>
 
-## <code><a href="https://github.com/siam-ar" style="color: #38BDF8; text-decoration: none; font-weight: 700;">DEVELOPER TOOLS</a></code>
+<h3><code><a href="https://github.com/siam-ar" style="color: #38BDF8; text-decoration: none; font-weight: 700;">DEVELOPER TOOLS</a></code></h3>
 <p align="center">
-<!-- Version Control -->
 <img src="./icons/git.svg" width="70" height="70" alt="Git" />
 <img src="./icons/github.svg" width="70" height="70" alt="GitHub" />
-
-<!-- CI/CD & Automation -->
 <img src="./icons/github-actions.svg" width="70" height="70" alt="GitHub Actions" />
 <img src="./icons/CI-CD.svg" width="70" height="70" alt="CI/CD" />
-
-<!-- Containerization & Deployment -->
 <img src="./icons/docker.svg" width="70" height="70" alt="Docker" />
 <img src="./icons/vercel.svg" width="70" height="70" alt="Vercel" />
-
-<!-- API Development & Testing -->
 <img src="./icons/postman.svg" width="70" height="70" alt="Postman" />
-
-<!-- Operating System -->
 <img src="./icons/linux.svg" width="70" height="70" alt="Linux" />
 </p>
 
 </div>
 
----
+<br><br>
 
 <!-- ============ MASTER BORDER CONTAINER START ============ -->
 <div style="padding: 25px; background: linear-gradient(145deg, #0d1117, #161b22); border: 2px solid rgba(255,119,0,0.4); border-radius: 24px; box-shadow: 0 20px 60px rgba(0,0,0,0.7);">
 
 <div align="center">
 
-<!-- ============ Prominent Heading with Animated Icon ============ -->
-<h2 style="color: #ffffff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 1.8em; font-weight: 800; letter-spacing: -0.5px; margin-bottom: 0px;">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32" style="vertical-align: middle;"> Featured Project
+<!-- ============ Featured Project Title ============ -->
+<h2>
+  <code><a href="https://github.com/siam-ar" style="color: #FF7700; text-decoration: none; font-weight: 700; background: rgba(255, 119, 0, 0.1); padding: 8px 16px; border-radius: 8px; border: 1px solid rgba(255, 119, 0, 0.2); display: inline-block;"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28" style="vertical-align: middle;"> FEATURED PROJECT</a></code>
 </h2>
 
 <br>
@@ -162,15 +158,17 @@
 
 </div>
 
-<br>
-<hr style="border-color: rgba(255,255,255,0.1);">
-<br>
+<br><br>
 
 <!-- ============ Core Capabilities / Features ============ -->
 
-<h3 align="center" style="font-weight: 800; font-size: 2.4em; margin-bottom: 30px; letter-spacing: -0.5px; color: #ffffff;">
-  Key Features
-</h3>
+<div align="center">
+  <h2>
+    <code><a href="https://github.com/siam-ar" style="color: #38BDF8; text-decoration: none; font-weight: 700; background: rgba(56, 189, 248, 0.1); padding: 8px 16px; border-radius: 8px; border: 1px solid rgba(56, 189, 248, 0.2); display: inline-block;"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28" style="vertical-align: middle;"> KEY FEATURES</a></code>
+  </h2>
+</div>
+
+<br>
 
 <table width="100%" style="border: none;">
   <tr>
@@ -195,15 +193,17 @@
   </tr>
 </table>
 
-<br>
-<hr style="border-color: rgba(255,255,255,0.1);">
-<br>
+<br><br>
 
-<!-- ============ Architecture & Stack with Animated Icon ============ -->
+<!-- ============ Architecture & Stack ============ -->
 
-<h3 align="center" style="font-weight: 800; font-size: 2.4em; margin-bottom: 25px; letter-spacing: -0.5px; color: #ffffff;">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32" style="vertical-align: middle;"> Architecture &amp; Stack
-</h3>
+<div align="center">
+  <h2>
+    <code><a href="https://github.com/siam-ar" style="color: #38BDF8; text-decoration: none; font-weight: 700; background: rgba(56, 189, 248, 0.1); padding: 8px 16px; border-radius: 8px; border: 1px solid rgba(56, 189, 248, 0.2); display: inline-block;"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28" style="vertical-align: middle;"> ARCHITECTURE &amp; STACK</a></code>
+  </h2>
+</div>
+
+<br>
 
 <div align="center" style="padding: 25px; background: rgba(255, 255, 255, 0.02); border: 1px solid rgba(255, 255, 255, 0.08); border-radius: 16px; box-shadow: 0 10px 30px -10px rgba(0,0,0,0.3);">
 
@@ -241,10 +241,15 @@
 </div>
 <!-- ============ MASTER BORDER CONTAINER END ============ -->
 
-<br>
-<hr>
+<br><br>
 
-# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32"> GitHub Statistics
+<div align="center">
+  <h2>
+    <code><a href="https://github.com/siam-ar" style="color: #38BDF8; text-decoration: none; font-weight: 700; background: rgba(56, 189, 248, 0.1); padding: 8px 16px; border-radius: 8px; border: 1px solid rgba(56, 189, 248, 0.2); display: inline-block;"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28" style="vertical-align: middle;"> GITHUB STATISTICS</a></code>
+  </h2>
+</div>
+
+<br>
 
 <div align="center">
 
@@ -262,25 +267,31 @@
 
 </div>
 
----
+<br>
 
-# 🤝 Connect With Me
+<div align="center">
+  <h2>
+    <code><a href="https://github.com/siam-ar" style="color: #38BDF8; text-decoration: none; font-weight: 700; background: rgba(56, 189, 248, 0.1); padding: 8px 16px; border-radius: 8px; border: 1px solid rgba(56, 189, 248, 0.2); display: inline-block;"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28" style="vertical-align: middle;"> CONNECT WITH ME</a></code>
+  </h2>
+</div>
+
+<br>
 
 <div align="center">
 
-<a href="https://github.com/Siam-AR">
+<a href="https://github.com/Siam-AR" style="text-decoration: none;">
 <img src="https://skillicons.dev/icons?i=github" width="50"/>
 </a>
 
 &nbsp;&nbsp;&nbsp;
 
-<a href="https://linkedin.com/in/siam-ar">
+<a href="https://linkedin.com/in/siam-ar" style="text-decoration: none;">
 <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
 </a>
 
 &nbsp;&nbsp;&nbsp;
 
-<a href="mailto:siam.ar.nexus@gmail.com">
+<a href="mailto:siam.ar.nexus@gmail.com" style="text-decoration: none;">
 <img src="https://skillicons.dev/icons?i=gmail" width="50"/>
 </a>
 
@@ -290,7 +301,7 @@
 
 <div align="center">
 
-### 📫 Reach Me
+<h3> 📫 Reach Me</h3>
 
 📍 **Location:** Dhaka, Bangladesh 🇧🇩
 
@@ -300,11 +311,11 @@
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-### 💙 Thanks for visiting my profile!
+<h3>💙 Thanks for visiting my profile!</h3>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1200&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Happy+Coding!+🚀;See+you+again!+👋" />
 
