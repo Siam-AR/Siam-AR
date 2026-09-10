@@ -1,0 +1,152 @@
+<svg fill="none" viewBox="0 0 900 160" width="900" height="160" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:ital,wght@1,800;1,900&amp;display=swap');
+
+        * {
+          box-sizing: border-box;
+          margin: 0;
+          padding: 0;
+        }
+
+        .banner-container {
+          position: relative;
+          width: 100%;
+          height: 160px;
+          /* Matched cyberpunk dark-teal gradient */
+          background: radial-gradient(circle at 50% 50%, #072b26 0%, #031613 65%, #020f0c 100%);
+          border-radius: 14px;
+          border: 2px solid #164e3f;
+          /* Removed the outer glow: only retained the inner shadow */
+          box-shadow: inset 0 0 15px rgba(4, 26, 23, 0.8);
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          overflow: hidden;
+          margin: 0;
+        }
+
+        .phrase-group {
+          position: absolute;
+          inset: 0;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          pointer-events: none;
+          opacity: 0;
+          animation-duration: 14.73s;
+          animation-timing-function: linear;
+          animation-iteration-count: infinite;
+        }
+
+        .group-one { --travel-dist: 180px; animation-name: groupOneSeq; }
+        .group-two { --travel-dist: 380px; animation-name: groupTwoSeq; }
+        .group-three { --travel-dist: 225px; animation-name: groupThreeSeq; }
+
+        .text-phrase {
+          position: absolute;
+          left: 50%;
+          top: 50%;
+          transform: translate(-50%, -50%);
+          white-space: nowrap;
+          /* Matched glowing white cyberpunk text */
+          color: #ffffff;
+          filter: drop-shadow(0 0 10px rgba(78, 255, 172, 0.5));
+          font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+          font-size: 40px;
+          font-weight: 800;
+          font-style: italic;
+          letter-spacing: -0.5px;
+          clip-path: inset(0 50% 0 50%);
+          animation: textReveal 14.73s linear infinite;
+        }
+
+        /* Matched Neon Green / Emerald Slashes */
+        .line {
+          position: absolute;
+          left: 50%;
+          top: 50%;
+          width: 135px;
+          height: 6px;
+          background: #2de370;
+          box-shadow: 0 0 12px #39ff94, 0 0 4px #b3ffd4;
+          transform-origin: center center;
+          border-radius: 3px;
+          animation-duration: 14.73s;
+          animation-timing-function: linear;
+          animation-iteration-count: infinite;
+        }
+
+        .line-left  { animation-name: leftLineTravel; }
+        .line-right { animation-name: rightLineTravel; }
+
+        @keyframes groupOneSeq {
+          0%, 33.32%   { opacity: 1; }
+          33.33%, 100% { opacity: 0; }
+        }
+        @keyframes groupTwoSeq {
+          0%, 33.32%   { opacity: 0; }
+          33.33%, 66.65% { opacity: 1; }
+          66.66%, 100% { opacity: 0; }
+        }
+        @keyframes groupThreeSeq {
+          0%, 66.65%   { opacity: 0; }
+          66.66%, 100% { opacity: 1; }
+        }
+
+        @keyframes leftLineTravel {
+          0.00%, 33.33%, 66.66% { transform: translate(-50%, -50%) rotate(90deg) scaleX(0.02); }
+          2.03%, 35.36%, 68.69% { transform: translate(-50%, -50%) rotate(90deg) scaleX(1); }
+          3.80%, 37.13%, 70.46% { transform: translate(-50%, -50%) rotate(-45deg) scaleX(1); }
+          6.77%, 40.10%, 73.43% { transform: translate(-59%, -50%) rotate(-45deg) scaleX(1); }
+          12.40%, 45.73%, 79.06% { transform: translate(calc(-50% - var(--travel-dist)), -50%) rotate(-45deg) scaleX(1); }
+          20.73%, 54.06%, 87.39% { transform: translate(calc(-50% - var(--travel-dist)), -50%) rotate(-45deg) scaleX(1); }
+          26.77%, 60.10%, 93.43% { transform: translate(-50%, -50%) rotate(-45deg) scaleX(1); }
+          28.40%, 61.73%, 95.06% { transform: translate(-50%, -50%) rotate(90deg) scaleX(1); }
+          33.32%, 66.65%, 100.0% { transform: translate(-50%, -50%) rotate(90deg) scaleX(0.02); }
+        }
+
+        @keyframes rightLineTravel {
+          0.00%, 33.33%, 66.66% { transform: translate(-50%, -50%) rotate(90deg) scaleX(0.02); }
+          2.03%, 35.36%, 68.69% { transform: translate(-50%, -50%) rotate(90deg) scaleX(1); }
+          3.80%, 37.13%, 70.46% { transform: translate(-50%, -50%) rotate(-45deg) scaleX(1); }
+          6.77%, 40.10%, 73.43% { transform: translate(-41%, -50%) rotate(-45deg) scaleX(1); }
+          12.40%, 45.73%, 79.06% { transform: translate(calc(-50% + var(--travel-dist)), -50%) rotate(-45deg) scaleX(1); }
+          20.73%, 54.06%, 87.39% { transform: translate(calc(-50% + var(--travel-dist)), -50%) rotate(-45deg) scaleX(1); }
+          26.77%, 60.10%, 93.43% { transform: translate(-50%, -50%) rotate(-45deg) scaleX(1); }
+          28.40%, 61.73%, 95.06% { transform: translate(-50%, -50%) rotate(90deg) scaleX(1); }
+          33.32%, 66.65%, 100.0% { transform: translate(-50%, -50%) rotate(90deg) scaleX(0.02); }
+        }
+
+        @keyframes textReveal {
+          0.0%, 6.6%, 33.33%, 39.9%, 66.66%, 73.2% { clip-path: inset(0 50% 0 50%); }
+          9.0%, 42.3%, 75.6% { clip-path: inset(0 32% 0 32%); }
+          11.3%, 44.6%, 77.9% { clip-path: inset(0 15% 0 15%); }
+          12.6%, 20.6%, 45.9%, 53.9%, 79.2%, 87.2% { clip-path: inset(0 0% 0 0%); }
+          23.3%, 56.6%, 89.9% { clip-path: inset(0 12% 0 12%); }
+          25.6%, 58.9%, 92.2% { clip-path: inset(0 30% 0 30%); }
+          26.8%, 33.32%, 60.1%, 66.65%, 93.4%, 100% { clip-path: inset(0 50% 0 50%); }
+        }
+      </style>
+
+      <div class="banner-container">
+        <div class="phrase-group group-one">
+          <h1 class="text-phrase">Hello there!</h1>
+          <div class="line line-left"></div>
+          <div class="line line-right"></div>
+        </div>
+        <div class="phrase-group group-two">
+          <h1 class="text-phrase">I'm Siam, a Full-Stack Developer.</h1>
+          <div class="line line-left"></div>
+          <div class="line line-right"></div>
+        </div>
+        <div class="phrase-group group-three">
+          <h1 class="text-phrase">Nice to meet you!</h1>
+          <div class="line line-left"></div>
+          <div class="line line-right"></div>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
