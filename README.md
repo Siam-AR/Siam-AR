@@ -127,7 +127,7 @@
 
 <div align="center">
 
-## <code style="font-size: 1.45em; padding: 4px 14px; color: #38BDF8; font-weight: 800;">FEATURED PROJECT</code>
+## <code style="font-size: 2.00em; padding: 4px 14px; color: #38BDF8; font-weight: 800;">FEATURED PROJECT</code>
 
 <br>
 
@@ -216,7 +216,7 @@
     <img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,express,mongodb,firebase,tailwind&theme=dark" alt="Tech Stack Icons" />
   </a>
 
-  <br>
+  <br><br>
 
   <!-- Structured Technology Breakdown -->
   <table width="100%" style="border: none; text-align: left; margin-top: 10px;">
