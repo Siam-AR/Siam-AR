@@ -1,3 +1,5 @@
+<div id="top"></div>
+
 <div align="center">
 
 <div align="center">
@@ -279,12 +281,23 @@
 
 <div align="center">
 
-### 💙 Thanks for visiting my profile!
+<br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1200&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Happy+Coding!+🚀;See+you+again!+👋" />
+<!-- Daily Developer Quote Card -->
+<a href="https://github.com/Siam-AR">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord" alt="Daily Developer Quote" />
+</a>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=120&section=footer"/>
+<!-- Back to top jump button -->
+<a href="#top">
+  <img src="https://img.shields.io/badge/▲_BACK_TO_TOP-0D1117?style=for-the-badge&logoColor=38BDF8&labelColor=161B22&color=38BDF8" alt="Back to Top" height="30"/>
+</a>
+
+<br><br>
+
+<!-- Nord Cyan Wave Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=90&section=footer" width="100%"/>
 
 </div>
