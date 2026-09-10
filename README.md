@@ -93,8 +93,6 @@
   <img src="./icons/bycrypt.svg" width="80" height="80" alt="bycrypt" />
   <img src="./icons/RABC.svg" width="80" height="80" alt="RABC" />
   <img src="./icons/oauth2.0.svg" width="80" height="80" alt="oauth2.0" />
-  
-  
 </p>
 
 <br>
@@ -118,13 +116,15 @@
 
 <!-- Operating System -->
 <img src="./icons/linux.svg" width="70" height="70" alt="Linux" />
-
 </p>
 
 </div>
 
-
 ---
+
+<!-- ============ MASTER BORDER CONTAINER START ============ -->
+<div style="padding: 25px; background: linear-gradient(145deg, #0d1117, #161b22); border: 2px solid rgba(255,119,0,0.4); border-radius: 24px; box-shadow: 0 20px 60px rgba(0,0,0,0.7);">
+
 <div align="center">
 
 <!-- ============ Prominent Heading ============ -->
@@ -155,55 +155,53 @@
 
 <br>
 
-<!-- ============ The 'Hero' Screenshot with Forced Visible Border & Glow ============ -->
-<div align="center" style="padding: 12px; background: linear-gradient(145deg, #0d1117, #161b22); border: 2px solid rgba(255,119,0,0.5); border-radius: 16px; box-shadow: 0 20px 50px rgba(0,0,0,0.6);">
-  <div style="border: 2px solid rgba(255, 255, 255, 0.2); border-radius: 10px; overflow: hidden; background: #000;">
-    <img src="https://github.com/user-attachments/assets/29fa84d2-c065-4b6a-b478-f09c88c33b0b" alt="SkillSwap Platform" width="100%" style="display: block;" />
-  </div>
+<!-- ============ Hero Screenshot with Inner Border ============ -->
+<div style="padding: 10px; background: rgba(0,0,0,0.3); border: 2px solid rgba(255, 255, 255, 0.15); border-radius: 14px; overflow: hidden;">
+  <img src="https://github.com/user-attachments/assets/29fa84d2-c065-4b6a-b478-f09c88c33b0b" alt="SkillSwap Platform" width="100%" style="display: block; border-radius: 8px;" />
 </div>
 
 </div>
 
 <br>
-<hr>
+<hr style="border-color: rgba(255,255,255,0.1);">
 <br>
 
 <!-- ============ Core Capabilities / Features ============ -->
 
-<h3 align="center" style="font-weight: 800; font-size: 2.4em; margin-bottom: 30px; letter-spacing: -0.5px;">
+<h3 align="center" style="font-weight: 800; font-size: 2.4em; margin-bottom: 30px; letter-spacing: -0.5px; color: #ffffff;">
   Key Features
 </h3>
 
 <table width="100%" style="border: none;">
   <tr>
     <td width="50%" style="background: rgba(255, 255, 255, 0.02); border: 1px solid rgba(255, 255, 255, 0.08); border-radius: 12px; padding: 20px; vertical-align: top;">
-      <h4>🔐 Better Authentication</h4>
+      <h4 style="color: #fff;">🔐 Better Authentication</h4>
       <p style="color: #8b949e; font-size: 0.95em;">Secure authentication with Better Auth, featuring Google OAuth, persistent sessions, and protected user roles.</p>
     </td>
     <td width="50%" style="background: rgba(255, 255, 255, 0.02); border: 1px solid rgba(255, 255, 255, 0.08); border-radius: 12px; padding: 20px; vertical-align: top;">
-      <h4>💳 Stripe Checkout Flow</h4>
+      <h4 style="color: #fff;">💳 Stripe Checkout Flow</h4>
       <p style="color: #8b949e; font-size: 0.95em;">Secure transaction processing with Stripe integration and automated checkout success tracking.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" style="background: rgba(255, 255, 255, 0.02); border: 1px solid rgba(255, 255, 255, 0.08); border-radius: 12px; padding: 20px; vertical-align: top;">
-      <h4>⚡ High Performance</h4>
+      <h4 style="color: #fff;">⚡ High Performance</h4>
       <p style="color: #8b949e; font-size: 0.95em;">Engineered with Next.js Server-Side Rendering (SSR) for instantaneous data loading from MongoDB.</p>
     </td>
     <td width="50%" style="background: rgba(255, 255, 255, 0.02); border: 1px solid rgba(255, 255, 255, 0.08); border-radius: 12px; padding: 20px; vertical-align: top;">
-      <h4>🛡️ Protected Route Guards</h4>
+      <h4 style="color: #fff;">🛡️ Protected Route Guards</h4>
       <p style="color: #8b949e; font-size: 0.95em;">Role-specific dashboards tailored for Clients, Freelancers, and Administrators with full refresh safety.</p>
     </td>
   </tr>
 </table>
 
 <br>
-<hr>
+<hr style="border-color: rgba(255,255,255,0.1);">
 <br>
 
 <!-- ============ Architecture & Stack ============ -->
 
-<h3 align="center" style="font-weight: 800; font-size: 2.4em; margin-bottom: 25px; letter-spacing: -0.5px;">
+<h3 align="center" style="font-weight: 800; font-size: 2.4em; margin-bottom: 25px; letter-spacing: -0.5px; color: #ffffff;">
   Architecture &amp; Stack
 </h3>
 
@@ -240,11 +238,11 @@
 
 </div>
 
+</div>
+<!-- ============ MASTER BORDER CONTAINER END ============ -->
+
 <br>
 <hr>
-<br>
-
----
 
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32"> GitHub Statistics
 
