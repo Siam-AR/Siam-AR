@@ -122,7 +122,7 @@
 
 ---
 
-# <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="35"> Featured Project
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="35" height="35" /> Featured Project
 
 <!-- ============ MASTER BORDER CONTAINER START ============ -->
 <div style="padding: 25px; background: linear-gradient(145deg, #0d1117, #161b22); border: 2px solid rgba(255,119,0,0.4); border-radius: 24px; box-shadow: 0 20px 60px rgba(0,0,0,0.7);">
