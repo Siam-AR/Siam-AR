@@ -223,8 +223,8 @@
 
 <div align="center">
 
-  <!-- Full-Width Card (Never truncates your name) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Siam-AR&show_icons=true&hide_border=true&title_color=38BDF8&icon_color=38BDF8&text_color=ECEFF4&bg_color=2E3440&custom_title=Siam%20Al%20Rabbi%20(@Siam-AR)" width="100%" />
+  <!-- Full-Width Stats Overview (Displays your full name cleanly) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Siam-AR&show_icons=true&hide_border=true&title_color=38BDF8&icon_color=38BDF8&text_color=ECEFF4&bg_color=2E3440&custom_title=Siam%20Al%20Rabbi's%20GitHub%20Stats" width="100%" />
 
   <br><br>
 
