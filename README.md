@@ -157,7 +157,9 @@
 
 <!-- ============ The 'Hero' Screenshot with a subtle glow ============ -->
 <div align="center" style="padding: 15px; background: linear-gradient(145deg, #0d1117, #161b22); border: 1px solid rgba(255,255,255,0.08); border-radius: 20px; box-shadow: 0 20px 50px rgba(0,0,0,0.5);">
-  <img src="https://legiit.com/AIbro/beautiful-hero-section-design-with-elementor" alt="SkillSwap Platform" width="100%" style="border-radius: 12px; box-shadow: 0 0 30px rgba(110, 0, 255, 0.25);">
+  
+<img width="1887" height="873" alt="SkillSwap" src="https://github.com/user-attachments/assets/56ef4bb5-f908-4e97-9396-f9a3c1376ebf" />
+  
 </div>
 
 </div>
