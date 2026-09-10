@@ -243,39 +243,33 @@
 
 # 🤝 Connect With Me
 
-<div align="center">
-
-<a href="https://github.com/Siam-AR">
-<img src="https://skillicons.dev/icons?i=github" width="50"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://linkedin.com/in/siam-ar">
-<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:siam.ar.nexus@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="50"/>
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-### 📫 Reach Me
-
-📍 **Location:** Dhaka, Bangladesh 🇧🇩
-
-📧 **Email:** siam.ar.nexus@gmail.com
-
-📱 **Phone:** +880 1612890989
-
-</div>
+<table width="100%" style="border: 1px solid rgba(56,189,248,0.2); border-radius: 16px; background: linear-gradient(145deg, #0d1117, #161b22); padding: 15px; border-collapse: separate; border-spacing: 0;">
+  <tr>
+    <td width="45%" align="center" style="border-right: 1px solid rgba(255,255,255,0.08); padding: 15px; vertical-align: middle;">
+      <p style="margin-bottom: 12px; color: #8b949e; font-size: 0.9em; font-weight: 600;">FIND ME ON</p>
+      <a href="https://github.com/Siam-AR" target="_blank" style="margin: 0 8px; text-decoration: none;">
+        <img src="https://skillicons.dev/icons?i=github" width="44" alt="GitHub" />
+      </a>
+      <a href="https://linkedin.com/in/siam-ar" target="_blank" style="margin: 0 8px; text-decoration: none;">
+        <img src="https://skillicons.dev/icons?i=linkedin" width="44" alt="LinkedIn" />
+      </a>
+      <a href="mailto:siam.ar.nexus@gmail.com" target="_blank" style="margin: 0 8px; text-decoration: none;">
+        <img src="https://skillicons.dev/icons?i=gmail" width="44" alt="Email" />
+      </a>
+    </td>
+    <td width="55%" style="padding: 15px 25px; vertical-align: middle;">
+      <p style="margin: 4px 0; color: #c9d1d9; font-size: 0.95em;">
+        📍 <b style="color: #fff;">Location:</b> Dhaka, Bangladesh 🇧🇩
+      </p>
+      <p style="margin: 4px 0; color: #c9d1d9; font-size: 0.95em;">
+        📧 <b style="color: #fff;">Email:</b> <a href="mailto:siam.ar.nexus@gmail.com" style="color: #38BDF8; text-decoration: none;">siam.ar.nexus@gmail.com</a>
+      </p>
+      <p style="margin: 4px 0; color: #c9d1d9; font-size: 0.95em;">
+        📱 <b style="color: #fff;">Phone:</b> <span style="color: #8b949e;">+880 1612890989</span>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
