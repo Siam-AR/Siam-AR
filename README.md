@@ -47,7 +47,7 @@
 
 <div align="center">
 
-## <code style="font-size: 1.45em; padding: 4px 12px;"><a href="https://github.com/siam-ar" style="color: #38BDF8; text-decoration: none !important; border-bottom: none; font-weight: 800;">PROGRAMMING LANGUAGES</a></code>
+## <code style="font-size: 1.45em; padding: 4px 14px; color: #38BDF8; font-weight: 800;">PROGRAMMING LANGUAGES</code>
 <p align="center">
   <img src="./icons/js.svg" width="70" height="70" alt="JavaScript" />
   <img src="./icons/ts.svg" width="70" height="70" alt="TypeScript" />
@@ -58,7 +58,7 @@
 
 <br>
 
-## <code style="font-size: 1.45em; padding: 4px 12px;"><a href="https://github.com/siam-ar" style="color: #38BDF8; text-decoration: none !important; border-bottom: none; font-weight: 800;">FRONTEND</a></code>
+## <code style="font-size: 1.45em; padding: 4px 14px; color: #38BDF8; font-weight: 800;">FRONTEND</code>
 <p align="center">
 
   <img src="./icons/html.svg" width="70" height="70" alt="HTML5" />
@@ -70,7 +70,7 @@
 
 <br>
 
-## <code style="font-size: 1.45em; padding: 4px 12px;"><a href="https://github.com/siam-ar" style="color: #38BDF8; text-decoration: none !important; border-bottom: none; font-weight: 800;">BACKEND</a></code>
+## <code style="font-size: 1.45em; padding: 4px 14px; color: #38BDF8; font-weight: 800;">BACKEND</code>
 <p align="center">
   <img src="./icons/nodejs.svg" width="70" height="70" alt="Node.js" />
   <img src="./icons/express.svg" width="70" height="70" alt="Express.js" />
@@ -78,7 +78,7 @@
 
 <br>
 
-## <code style="font-size: 1.45em; padding: 4px 12px;"><a href="https://github.com/siam-ar" style="color: #38BDF8; text-decoration: none !important; border-bottom: none; font-weight: 800;">DATABASES & ORMS</a></code>
+## <code style="font-size: 1.45em; padding: 4px 14px; color: #38BDF8; font-weight: 800;">DATABASES & ORMS</code>
 <p align="center">
   <img src="./icons/mongodb.svg" width="70" height="70" alt="MongoDB" />
   <img src="./icons/postgres.svg" width="70" height="70" alt="PostgreSQL" />
@@ -87,7 +87,7 @@
 
 <br>
 
-## <code style="font-size: 1.45em; padding: 4px 12px;"><a href="https://github.com/siam-ar" style="color: #38BDF8; text-decoration: none !important; border-bottom: none; font-weight: 800;">AUTH & SECURITY</a></code>
+## <code style="font-size: 1.45em; padding: 4px 14px; color: #38BDF8; font-weight: 800;">AUTH & SECURITY</code>
 <p align="center">
   <img src="./icons/jwt.svg" width="80" height="80" alt="JWT" />
   <img src="./icons/bycrypt.svg" width="80" height="80" alt="bycrypt" />
@@ -97,7 +97,7 @@
 
 <br>
 
-## <code style="font-size: 1.45em; padding: 4px 12px;"><a href="https://github.com/siam-ar" style="color: #38BDF8; text-decoration: none !important; border-bottom: none; font-weight: 800;">DEVELOPER TOOLS</a></code>
+## <code style="font-size: 1.45em; padding: 4px 14px; color: #38BDF8; font-weight: 800;">DEVELOPER TOOLS</code>
 <p align="center">
 <!-- Version Control -->
 <img src="./icons/git.svg" width="70" height="70" alt="Git" />
@@ -127,7 +127,7 @@
 
 <div align="center">
 
-## <code style="font-size: 1.45em; padding: 4px 12px;"><a href="https://github.com/siam-ar/skillSwap-client" style="color: #38BDF8; text-decoration: none !important; border-bottom: none; font-weight: 800;">FEATURED PROJECT</a></code>
+## <code style="font-size: 1.45em; padding: 4px 14px; color: #38BDF8; font-weight: 800;">FEATURED PROJECT</code>
 
 <br>
 
@@ -167,7 +167,7 @@
 
 <div align="center">
 
-## <code style="font-size: 1.45em; padding: 4px 12px;"><a href="https://github.com/siam-ar/skillSwap-client" style="color: #38BDF8; text-decoration: none !important; border-bottom: none; font-weight: 800;">KEY FEATURES</a></code>
+## <code style="font-size: 1.45em; padding: 4px 14px; color: #38BDF8; font-weight: 800;">KEY FEATURES</code>
 
 </div>
 
@@ -204,7 +204,7 @@
 
 <div align="center">
 
-## <code style="font-size: 1.45em; padding: 4px 12px;"><a href="https://github.com/siam-ar/skillSwap-client" style="color: #38BDF8; text-decoration: none !important; border-bottom: none; font-weight: 800;">ARCHITECTURE &amp; TECH STACK</a></code>
+## <code style="font-size: 1.45em; padding: 4px 14px; color: #38BDF8; font-weight: 800;">ARCHITECTURE &amp; TECH STACK</code>
 
 </div>
 
