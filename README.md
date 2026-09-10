@@ -101,14 +101,24 @@
 
 ## <code><a href="https://github.com/siam-ar" style="color: #38BDF8; text-decoration: none; font-weight: 700;">DEVELOPER TOOLS</a></code>
 <p align="center">
-  <img src="./icons/git.svg" width="70" height="70" alt="Git" />
-  <img src="./icons/github.svg" width="70" height="70" alt="GitHub" />
-  <img src="./icons/docker.svg" width="70" height="70" alt="Docker" />
-  <img src="./icons/postman.svg" width="70" height="70" alt="Postman" />
-  <img src="./icons/vercel.svg" width="70" height="70" alt="Vercel" />
-  <img src="./icons/linux.svg" width="70" height="70" alt="Linux" />
-  <img src="./icons/github-actions.svg" width="70" height="70" alt="github-actions" />
-  <img src="./icons/CI-CD.svg" width="70" height="70" alt="CI/CD" />
+<!-- Version Control -->
+<img src="./icons/git.svg" width="70" height="70" alt="Git" />
+<img src="./icons/github.svg" width="70" height="70" alt="GitHub" />
+
+<!-- CI/CD & Automation -->
+<img src="./icons/github-actions.svg" width="70" height="70" alt="GitHub Actions" />
+<img src="./icons/CI-CD.svg" width="70" height="70" alt="CI/CD" />
+
+<!-- Containerization & Deployment -->
+<img src="./icons/docker.svg" width="70" height="70" alt="Docker" />
+<img src="./icons/vercel.svg" width="70" height="70" alt="Vercel" />
+
+<!-- API Development & Testing -->
+<img src="./icons/postman.svg" width="70" height="70" alt="Postman" />
+
+<!-- Operating System -->
+<img src="./icons/linux.svg" width="70" height="70" alt="Linux" />
+
 </p>
 
 </div>
