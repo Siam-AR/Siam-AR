@@ -283,13 +283,15 @@
 
   <br>
 
-  <!-- Animated Thank You Container -->
-  <table style="border: 1px solid rgba(56, 189, 248, 0.25); border-radius: 16px; background: linear-gradient(145deg, #0d1117, #161b22); padding: 12px 24px; display: inline-table;">
+  <!-- High-Aesthetic Card with Live Animated Emojis & Static Crisp Glow Text -->
+  <table style="border: 1px solid rgba(56, 189, 248, 0.25); border-radius: 16px; background: linear-gradient(145deg, #0d1117, #161b22); padding: 14px 26px; display: inline-table;">
     <tr>
       <td align="center" style="vertical-align: middle;">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkling%20Heart.png" width="30" height="30" alt="Heart" style="vertical-align: middle; margin-right: 8px;" />
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=38BDF8&center=true&vCenter=true&width=400&height=32&lines=Thanks+for+visiting+my+profile!;Happy+coding+and+keep+building!;" alt="Animated Thanks" style="vertical-align: middle;" />
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30" height="30" alt="Wave" style="vertical-align: middle; margin-left: 8px;" />
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkling%20Heart.png" width="28" height="28" alt="Heart" style="vertical-align: middle; margin-right: 10px;" />
+        <span style="font-family: 'Fira Code', monospace; font-weight: 700; font-size: 1.15em; color: #38BDF8; letter-spacing: 0.5px; vertical-align: middle;">
+          Thanks for visiting my profile!
+        </span>
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="28" height="28" alt="Wave" style="vertical-align: middle; margin-left: 10px;" />
       </td>
     </tr>
   </table>
