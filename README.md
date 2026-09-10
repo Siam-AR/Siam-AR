@@ -125,14 +125,13 @@
 
 
 ---
-
 <div align="center">
 
-<!-- ============ Prominent Heading ============ -->
+<!-- ============ Prominent Section Heading ============ -->
 <h2 style="
   color: #ffffff;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-  font-size: 1.8em;
+  font-size: 1.6em;
   font-weight: 800;
   letter-spacing: -0.5px;
   margin-bottom: 0px;
@@ -142,50 +141,43 @@
 
 <br>
 
-<!-- ============ The Animated Title Section ============ -->
-<h2 align="center" style="
-  background: linear-gradient(to right, #ff7700, #ff0055, #6e00ff, #00c6ff, #ff7700);
-  background-size: 200% auto;
-  color: #fff;
-  background-clip: text;
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  animation: shine 3s linear infinite;
-  font-weight: 800;
-  font-size: 3em;
-  margin-bottom: 10px;
+<!-- ============ Clean, High-Contrast Modern Hero Title ============ -->
+<h1 style="
+  color: #ffffff;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  font-weight: 900;
+  font-size: 3.5em;
+  letter-spacing: -1.5px;
+  margin-top: 0px;
+  margin-bottom: 8px;
+  text-shadow: 0 0 40px rgba(110, 0, 255, 0.4);
 ">
-  SkillSwap
-</h2>
+  SkillSwap<span style="color: #ff0055;">.</span>
+</h1>
 
-<p align="center" style="color: #8b949e; font-size: 1.2em;">
-  <em>A Modern Full-Stack Skill Exchange Platform</em>
+<p style="color: #8b949e; font-size: 1.15em; font-weight: 400; margin-top: 0px;">
+  <em>A Modern Full-Stack Micro-Task &amp; Skill Exchange Marketplace</em>
 </p>
+
+</div>
 
 <!-- ============ Modern, Flat-Style Call-to-Actions ============ -->
 <div align="center">
   <br>
-  <a href="https://skill-swap-client-a10.vercel.app" style="text-decoration: none; margin: 0 10px;">
-    <img src="https://img.shields.io/badge/%20Live%20Demo-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo">
+  <a href="https://skill-swap-client-a10.vercel.app" style="text-decoration: none; margin: 0 10px;" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Live%20Demo-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo">
   </a>
-  <a href="https://github.com/siam-ar/skillSwap-client" style="text-decoration: none; margin: 0 10px;">
-    <img src="https://img.shields.io/badge/%20Source%20Code-000?style=for-the-badge&logo=github&logoColor=white" alt="Source Code">
+  <a href="https://github.com/siam-ar/skillSwap-client" style="text-decoration: none; margin: 0 10px;" target="_blank">
+    <img src="https://img.shields.io/badge/💻%20Source%20Code-000?style=for-the-badge&logo=github&logoColor=white" alt="Source Code">
   </a>
   <br>
 </div>
 
-<!-- CSS Animation definition -->
-<style>
-  @keyframes shine {
-    to { background-position: 200% center; }
-  }
-</style>
-
 <br>
 
 <!-- ============ The 'Hero' Screenshot with a subtle glow ============ -->
-<div align="center" style="padding: 10px; background: linear-gradient(45deg, rgba(255,0,85,0.1), rgba(0,198,255,0.1)); border-radius: 15px;">
-  <img src="YOUR_HIGH_RESOLUTION_SCREENSHOT_OR_GIF_HERE.png" alt="SkillSwap Platform" width="100%" style="border-radius: 8px; box-shadow: 0 0 40px rgba(110, 0, 255, 0.3);">
+<div align="center" style="padding: 10px; background: linear-gradient(45deg, rgba(255,0,85,0.08), rgba(0,198,255,0.08)); border-radius: 15px;">
+  <img src="YOUR_HIGH_RESOLUTION_SCREENSHOT_OR_GIF_HERE.png" alt="SkillSwap Platform Preview" width="100%" style="border-radius: 8px; box-shadow: 0 0 30px rgba(110, 0, 255, 0.25);">
 </div>
 
 <br>
