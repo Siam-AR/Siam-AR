@@ -127,48 +127,28 @@
 ---
 <div align="center">
 
-<!-- ============ Prominent Section Heading ============ -->
-<h2 style="
-  color: #ffffff;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-  font-size: 1.6em;
-  font-weight: 800;
-  letter-spacing: -0.5px;
-  margin-bottom: 0px;
-">
+<!-- ============ Prominent Heading ============ -->
+<h2 style="color: #ffffff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 1.8em; font-weight: 800; letter-spacing: -0.5px; margin-bottom: 0px;">
   Featured Project
 </h2>
 
 <br>
 
-<!-- ============ Clean, High-Contrast Modern Hero Title ============ -->
-<h1 style="
-  color: #ffffff;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-  font-weight: 900;
-  font-size: 3.5em;
-  letter-spacing: -1.5px;
-  margin-top: 0px;
-  margin-bottom: 8px;
-  text-shadow: 0 0 40px rgba(110, 0, 255, 0.4);
-">
-  SkillSwap<span style="color: #ff0055;">.</span>
-</h1>
+<!-- ============ GitHub-Supported Animated Title Banner ============ -->
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=40&pause=1000&color=FF7700&center=true&vCenter=true&width=500&height=60&lines=SkillSwap;" alt="SkillSwap Animated Title">
 
-<p style="color: #8b949e; font-size: 1.15em; font-weight: 400; margin-top: 0px;">
+<p align="center" style="color: #8b949e; font-size: 1.2em;">
   <em>A Modern Full-Stack Micro-Task &amp; Skill Exchange Marketplace</em>
 </p>
-
-</div>
 
 <!-- ============ Modern, Flat-Style Call-to-Actions ============ -->
 <div align="center">
   <br>
   <a href="https://skill-swap-client-a10.vercel.app" style="text-decoration: none; margin: 0 10px;" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Live%20Demo-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo">
+    <img src="https://img.shields.io/badge/%20Live%20Demo-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo">
   </a>
   <a href="https://github.com/siam-ar/skillSwap-client" style="text-decoration: none; margin: 0 10px;" target="_blank">
-    <img src="https://img.shields.io/badge/💻%20Source%20Code-000?style=for-the-badge&logo=github&logoColor=white" alt="Source Code">
+    <img src="https://img.shields.io/badge/%20Source%20Code-000?style=for-the-badge&logo=github&logoColor=white" alt="Source Code">
   </a>
   <br>
 </div>
@@ -176,8 +156,10 @@
 <br>
 
 <!-- ============ The 'Hero' Screenshot with a subtle glow ============ -->
-<div align="center" style="padding: 10px; background: linear-gradient(45deg, rgba(255,0,85,0.08), rgba(0,198,255,0.08)); border-radius: 15px;">
-  <img src="YOUR_HIGH_RESOLUTION_SCREENSHOT_OR_GIF_HERE.png" alt="SkillSwap Platform Preview" width="100%" style="border-radius: 8px; box-shadow: 0 0 30px rgba(110, 0, 255, 0.25);">
+<div align="center" style="padding: 15px; background: linear-gradient(145deg, #0d1117, #161b22); border: 1px solid rgba(255,255,255,0.08); border-radius: 20px; box-shadow: 0 20px 50px rgba(0,0,0,0.5);">
+  <img src="https://legiit.com/AIbro/beautiful-hero-section-design-with-elementor" alt="SkillSwap Platform" width="100%" style="border-radius: 12px; box-shadow: 0 0 30px rgba(110, 0, 255, 0.25);">
+</div>
+
 </div>
 
 <br>
@@ -190,25 +172,28 @@
   Key Features
 </h3>
 
-<table width="100%" style="border: none;">
+<table width="100%" style="border: none; border-collapse: separate; border-spacing: 15px 0;">
   <tr>
-    <td width="50%" style="background: rgba(255, 255, 255, 0.02); border: 1px solid rgba(255, 255, 255, 0.08); border-radius: 12px; padding: 20px; vertical-align: top;">
-      <h4>🔐 Better Authentication</h4>
-      <p style="color: #8b949e; font-size: 0.95em;">Secure authentication with Better Auth, featuring Google OAuth, persistent sessions, and protected user roles.</p>
+    <td width="50%" style="background: linear-gradient(145deg, #0d1117, #161b22); border: 1px solid rgba(255, 255, 255, 0.08); border-radius: 16px; padding: 22px; vertical-align: top; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
+      <h4 style="color: #fff; margin-top: 0;">🔐 Better Authentication</h4>
+      <p style="color: #8b949e; font-size: 0.95em; margin-bottom: 0;">Secure authentication with Better Auth, featuring Google OAuth, persistent sessions, and protected user roles.</p>
     </td>
-    <td width="50%" style="background: rgba(255, 255, 255, 0.02); border: 1px solid rgba(255, 255, 255, 0.08); border-radius: 12px; padding: 20px; vertical-align: top;">
-      <h4>💳 Stripe Checkout Flow</h4>
-      <p style="color: #8b949e; font-size: 0.95em;">Secure transaction processing with Stripe integration and automated checkout success tracking.</p>
+    <td width="50%" style="background: linear-gradient(145deg, #0d1117, #161b22); border: 1px solid rgba(255, 255, 255, 0.08); border-radius: 16px; padding: 22px; vertical-align: top; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
+      <h4 style="color: #fff; margin-top: 0;">💳 Stripe Checkout Flow</h4>
+      <p style="color: #8b949e; font-size: 0.95em; margin-bottom: 0;">Secure transaction processing with Stripe integration and automated checkout success tracking.</p>
     </td>
   </tr>
+</table>
+<div style="height: 15px;"></div>
+<table width="100%" style="border: none; border-collapse: separate; border-spacing: 15px 0;">
   <tr>
-    <td width="50%" style="background: rgba(255, 255, 255, 0.02); border: 1px solid rgba(255, 255, 255, 0.08); border-radius: 12px; padding: 20px; vertical-align: top;">
-      <h4>⚡ High Performance</h4>
-      <p style="color: #8b949e; font-size: 0.95em;">Engineered with Next.js Server-Side Rendering (SSR) for instantaneous data loading from MongoDB.</p>
+    <td width="50%" style="background: linear-gradient(145deg, #0d1117, #161b22); border: 1px solid rgba(255, 255, 255, 0.08); border-radius: 16px; padding: 22px; vertical-align: top; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
+      <h4 style="color: #fff; margin-top: 0;">⚡ High Performance</h4>
+      <p style="color: #8b949e; font-size: 0.95em; margin-bottom: 0;">Engineered with Next.js Server-Side Rendering (SSR) for instantaneous data loading from MongoDB.</p>
     </td>
-    <td width="50%" style="background: rgba(255, 255, 255, 0.02); border: 1px solid rgba(255, 255, 255, 0.08); border-radius: 12px; padding: 20px; vertical-align: top;">
-      <h4>🛡️ Protected Route Guards</h4>
-      <p style="color: #8b949e; font-size: 0.95em;">Role-specific dashboards tailored for Clients, Freelancers, and Administrators with full refresh safety.</p>
+    <td width="50%" style="background: linear-gradient(145deg, #0d1117, #161b22); border: 1px solid rgba(255, 255, 255, 0.08); border-radius: 16px; padding: 22px; vertical-align: top; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
+      <h4 style="color: #fff; margin-top: 0;">🛡️ Protected Route Guards</h4>
+      <p style="color: #8b949e; font-size: 0.95em; margin-bottom: 0;">Role-specific dashboards tailored for Clients, Freelancers, and Administrators with full refresh safety.</p>
     </td>
   </tr>
 </table>
@@ -223,33 +208,39 @@
   Architecture &amp; Stack
 </h3>
 
-<div align="center" style="padding: 25px; background: rgba(255, 255, 255, 0.02); border: 1px solid rgba(255, 255, 255, 0.08); border-radius: 16px; box-shadow: 0 10px 30px -10px rgba(0,0,0,0.3);">
+<div align="center" style="
+  padding: 35px; 
+  background: linear-gradient(145deg, #0d1117, #161b22); 
+  border: 1px solid rgba(255,255,255,0.08); 
+  border-radius: 20px; 
+  box-shadow: 0 20px 50px rgba(0,0,0,0.5), inset 0 1px 0 rgba(255,255,255,0.05);
+">
 
-  <p style="color: #8b949e; font-size: 0.95em; margin-bottom: 20px;">
+  <p style="color: #8b949e; font-size: 0.95em; margin-bottom: 25px; max-width: 600px;">
     Separated micro-architecture featuring a Next.js client application paired with a robust Express &amp; MongoDB REST API server.
   </p>
 
-  <!-- Animated Tech Icons Row -->
-  <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,express,mongodb,firebase,tailwind&theme=dark" alt="Tech Stack Icons" />
-  </a>
+  <!-- Animated Tech Icons Row with Glow Filter -->
+  <div style="margin-bottom: 30px;">
+    <a href="https://skillicons.dev" target="_blank">
+      <img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,express,mongodb,firebase,tailwind&theme=dark" alt="Tech Stack Icons" style="filter: drop-shadow(0 0 10px rgba(110, 0, 255, 0.4));"/>
+    </a>
+  </div>
 
-  <br><br>
-
-  <!-- Structured Technology Breakdown -->
-  <table width="100%" style="border: none; text-align: left; margin-top: 10px;">
+  <!-- Structured Technology Breakdown Sub-cards -->
+  <table width="100%" style="border: none; text-align: left; border-collapse: separate; border-spacing: 12px 0;">
     <tr>
-      <td width="33%" style="vertical-align: top; padding: 10px;">
+      <td width="33%" style="vertical-align: top; padding: 18px; background: rgba(255,255,255,0.03); border-radius: 12px; border: 1px solid rgba(255,255,255,0.05);">
         <strong style="color: #fff; font-size: 0.9em;">Frontend App</strong>
-        <p style="color: #8b949e; font-size: 0.85em; margin-top: 4px;">Next.js 16, React 19, Tailwind CSS, HeroUI</p>
+        <p style="color: #8b949e; font-size: 0.85em; margin-top: 6px; line-height: 1.4;">Next.js 16, React 19, Tailwind CSS, HeroUI</p>
       </td>
-      <td width="33%" style="vertical-align: top; padding: 10px;">
+      <td width="33%" style="vertical-align: top; padding: 18px; background: rgba(255,255,255,0.03); border-radius: 12px; border: 1px solid rgba(255,255,255,0.05);">
         <strong style="color: #fff; font-size: 0.9em;">Backend Server</strong>
-        <p style="color: #8b949e; font-size: 0.85em; margin-top: 4px;">Node.js, Express 5 REST API</p>
+        <p style="color: #8b949e; font-size: 0.85em; margin-top: 6px; line-height: 1.4;">Node.js, Express 5 REST API</p>
       </td>
-      <td width="33%" style="vertical-align: top; padding: 10px;">
+      <td width="33%" style="vertical-align: top; padding: 18px; background: rgba(255,255,255,0.03); border-radius: 12px; border: 1px solid rgba(255,255,255,0.05);">
         <strong style="color: #fff; font-size: 0.9em;">Database &amp; Services</strong>
-        <p style="color: #8b949e; font-size: 0.85em; margin-top: 4px;">MongoDB Atlas, BetterAuth, Stripe.js</p>
+        <p style="color: #8b949e; font-size: 0.85em; margin-top: 6px; line-height: 1.4;">MongoDB Atlas, BetterAuth, Stripe.js</p>
       </td>
     </tr>
   </table>
@@ -258,6 +249,7 @@
 
 <br>
 <hr>
+<br>
 <br>
 
 <!-- <img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,express,mongodb,firebase,tailwind"/> -->
