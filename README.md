@@ -141,10 +141,6 @@
 </div>
 <br>
 
-<!-- <div style="padding: 10px; background: rgba(0,0,0,0.3); border: 2px solid rgba(255, 255, 255, 0.15); border-radius: 14px; overflow: hidden;">
-  <img src="https://github.com/user-attachments/assets/29fa84d2-c065-4b6a-b478-f09c88c33b0b" alt="SkillSwap Platform" width="100%" style="display: block; border-radius: 8px;" />
-</div> -->
-
 </div>
 <br>
 
@@ -280,7 +276,6 @@
 ---
 
 <div align="center" style="margin-top: 15px;">
-  <!-- Animated Thank You Banner -->
   <table style="border: 1px solid rgba(56, 189, 248, 0.25); border-radius: 16px; background: linear-gradient(145deg, #0d1117, #161b22); padding: 8px 18px; display: inline-table; margin-bottom: 12px;">
     <tr>
       <td align="center" style="vertical-align: middle;">
@@ -292,12 +287,10 @@
   </table>
 
   <div>
-    <!-- Back To Top Jump Button -->
     <a href="#top" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/▲_BACK_TO_TOP-0D1117?style=for-the-badge&logoColor=38BDF8&labelColor=161B22&color=38BDF8" alt="Back to Top" height="28"/>
     </a>
   </div>
 
-  <!-- Nord Cyan Wave Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=80&section=footer" width="100%" style="display: block; margin-top: 10px;"/>
 </div>
