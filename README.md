@@ -223,17 +223,15 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Siam-AR&theme=nord_dark" width="100%" />
+  <!-- Full-Width Card (Never truncates your name) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Siam-AR&show_icons=true&hide_border=true&title_color=38BDF8&icon_color=38BDF8&text_color=ECEFF4&bg_color=2E3440&custom_title=Siam%20Al%20Rabbi%20(@Siam-AR)" width="100%" />
 
-<br><br>
+  <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Siam-AR&theme=nord_dark" width="32%" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Siam-AR&theme=nord_dark" width="32%" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Siam-AR&theme=nord_dark" width="32%" />
-
-<br>
+  <!-- 3 Nord Dark Summary Cards -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Siam-AR&theme=nord_dark" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Siam-AR&theme=nord_dark" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Siam-AR&theme=nord_dark" width="32%" />
 
 </div>
 
@@ -276,6 +274,7 @@
 ---
 
 <div align="center" style="margin-top: 15px;">
+  <!-- Animated Thank You Banner -->
   <table style="border: 1px solid rgba(56, 189, 248, 0.25); border-radius: 16px; background: linear-gradient(145deg, #0d1117, #161b22); padding: 8px 18px; display: inline-table; margin-bottom: 12px;">
     <tr>
       <td align="center" style="vertical-align: middle;">
@@ -287,10 +286,12 @@
   </table>
 
   <div>
+    <!-- Back To Top Jump Button -->
     <a href="#top" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/▲_BACK_TO_TOP-0D1117?style=for-the-badge&logoColor=38BDF8&labelColor=161B22&color=38BDF8" alt="Back to Top" height="28"/>
     </a>
   </div>
 
+  <!-- Nord Cyan Wave Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=80&section=footer" width="100%" style="display: block; margin-top: 10px;"/>
 </div>
