@@ -43,7 +43,7 @@
 ---
 
 
-# <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35"> Tech Stack
+# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32"> Tech Stack
 
 <div align="center">
 
@@ -127,9 +127,9 @@
 
 <div align="center">
 
-<!-- ============ Prominent Heading ============ -->
+<!-- ============ Prominent Heading with Animated Icon ============ -->
 <h2 style="color: #ffffff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 1.8em; font-weight: 800; letter-spacing: -0.5px; margin-bottom: 0px;">
-  Featured Project
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32" style="vertical-align: middle;"> Featured Project
 </h2>
 
 <br>
@@ -199,10 +199,10 @@
 <hr style="border-color: rgba(255,255,255,0.1);">
 <br>
 
-<!-- ============ Architecture & Stack ============ -->
+<!-- ============ Architecture & Stack with Animated Icon ============ -->
 
 <h3 align="center" style="font-weight: 800; font-size: 2.4em; margin-bottom: 25px; letter-spacing: -0.5px; color: #ffffff;">
-  Architecture &amp; Stack
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32" style="vertical-align: middle;"> Architecture &amp; Stack
 </h3>
 
 <div align="center" style="padding: 25px; background: rgba(255, 255, 255, 0.02); border: 1px solid rgba(255, 255, 255, 0.08); border-radius: 16px; box-shadow: 0 10px 30px -10px rgba(0,0,0,0.3);">
