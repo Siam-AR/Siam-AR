@@ -155,9 +155,11 @@
 
 <br>
 
-<!-- ============ The 'Hero' Screenshot with Border & Glow ============ -->
-<div align="center" style="padding: 15px; background: linear-gradient(145deg, #0d1117, #161b22); border: 2px solid rgba(255,119,0,0.4); border-radius: 20px; box-shadow: 0 20px 50px rgba(0,0,0,0.5);">
-  <img src="https://github.com/user-attachments/assets/29fa84d2-c065-4b6a-b478-f09c88c33b0b" alt="SkillSwap Platform" width="100%" style="display: block; border-radius: 12px; border: 2px solid rgba(255, 255, 255, 0.15); box-shadow: 0 0 30px rgba(110, 0, 255, 0.3);" />
+<!-- ============ The 'Hero' Screenshot with Forced Visible Border & Glow ============ -->
+<div align="center" style="padding: 12px; background: linear-gradient(145deg, #0d1117, #161b22); border: 2px solid rgba(255,119,0,0.5); border-radius: 16px; box-shadow: 0 20px 50px rgba(0,0,0,0.6);">
+  <div style="border: 2px solid rgba(255, 255, 255, 0.2); border-radius: 10px; overflow: hidden; background: #000;">
+    <img src="https://github.com/user-attachments/assets/29fa84d2-c065-4b6a-b478-f09c88c33b0b" alt="SkillSwap Platform" width="100%" style="display: block;" />
+  </div>
 </div>
 
 </div>
@@ -241,7 +243,7 @@
 <br>
 <hr>
 <br>
-<!-- <img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,express,mongodb,firebase,tailwind"/> -->
+
 ---
 
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32"> GitHub Statistics
@@ -259,12 +261,6 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Siam-AR&theme=github_dark" width="32%" />
 
 <br><br>
-
-<!-- <img src="https://streak-stats.demolab.com?user=Siam-AR&theme=github-dark&hide_border=true" width="75%" /> -->
-
-<!-- <br><br> -->
-
-<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Siam-AR&theme=github-dark&hide_border=true" width="100%" /> -->
 
 </div>
 
