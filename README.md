@@ -99,17 +99,22 @@
 
 ## <code style="padding: 4px 14px; color: #38BDF8; font-weight: 800;">DEVELOPER TOOLS</code>
 <p align="center">
+<!-- Version Control -->
 <img src="./icons/git.svg" width="70" height="70" alt="Git" />
 <img src="./icons/github.svg" width="70" height="70" alt="GitHub" />
 
+<!-- CI/CD & Automation -->
 <img src="./icons/github-actions.svg" width="70" height="70" alt="GitHub Actions" />
 <img src="./icons/CI-CD.svg" width="70" height="70" alt="CI/CD" />
 
+<!-- Containerization & Deployment -->
 <img src="./icons/docker.svg" width="70" height="70" alt="Docker" />
 <img src="./icons/vercel.svg" width="70" height="70" alt="Vercel" />
 
+<!-- API Development & Testing -->
 <img src="./icons/postman.svg" width="70" height="70" alt="Postman" />
 
+<!-- Operating System -->
 <img src="./icons/linux.svg" width="70" height="70" alt="Linux" />
 </p>
 
@@ -119,16 +124,19 @@
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="35" height="35" /> Featured Project
 
+<!-- ============ MASTER BORDER CONTAINER START ============ -->
 <div style="padding: 25px; background: linear-gradient(145deg, #0d1117, #161b22); border: 2px solid rgba(255,119,0,0.4); border-radius: 24px; box-shadow: 0 20px 60px rgba(0,0,0,0.7);">
 
 <div align="center">
 
+<!-- ============ GitHub-Supported Animated Title Banner ============ -->
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=40&pause=1000&color=FF7700&center=true&vCenter=true&width=500&height=60&lines=SkillSwap;" alt="SkillSwap Animated Title">
 
 <p align="center" style="color: #8b949e; font-size: 1.2em;">
   <em>A Modern Full-Stack Micro-Task &amp; Skill Exchange Marketplace</em>
 </p>
 
+<!-- ============ High-Contrast Unified Action Buttons ============ -->
 <div align="center" style="margin: 15px 0 25px 0;">
   <a href="https://skill-swap-client-a10.vercel.app" target="_blank" style="text-decoration: none !important; margin: 0 6px;">
     <img src="https://img.shields.io/badge/LIVE_DEMO-FF5E00?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" height="32" />
@@ -139,12 +147,15 @@
 </div>
 <br>
 
+<!-- ============ Hero Screenshot with Inner Border ============ -->
 <div style="padding: 10px; background: rgba(0,0,0,0.3); border: 2px solid rgba(255, 255, 255, 0.15); border-radius: 14px; overflow: hidden;">
   <img src="https://github.com/user-attachments/assets/29fa84d2-c065-4b6a-b478-f09c88c33b0b" alt="SkillSwap Platform" width="100%" style="display: block; border-radius: 8px;" />
 </div>
 
 </div>
 <br>
+
+<!-- ============ Core Capabilities / Features ============ -->
 
 <div align="center">
 
@@ -179,6 +190,8 @@
 
 <br>
 
+<!-- ============ Architecture & Stack ============ -->
+
 <div align="center">
 
 ## <code style="padding: 4px 14px; color: #38BDF8; font-weight: 800;">ARCHITECTURE &amp; TECH STACK</code>
@@ -193,12 +206,14 @@
     Separated micro-architecture featuring a Next.js client application paired with a robust Express &amp; MongoDB REST API server.
   </p>
 
+  <!-- Animated Tech Icons Row -->
   <a href="https://skillicons.dev" target="_blank">
     <img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,express,mongodb,tailwind&theme=dark" alt="Tech Stack Icons" />
   </a>
 
   <br><br>
 
+  <!-- Structured Technology Breakdown -->
   <table width="100%" style="border: none; text-align: left; margin-top: 10px;">
     <tr>
       <td width="33%" style="vertical-align: top; padding: 10px;">
@@ -219,21 +234,22 @@
 </div>
 
 </div>
+<!-- ============ MASTER BORDER CONTAINER END ============ -->
 <hr>
 
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32"> GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Siam-AR&theme=tokyonight" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Siam-AR&theme=nord_dark" width="100%" />
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Siam-AR&theme=tokyonight" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Siam-AR&theme=nord_dark" width="32%" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Siam-AR&theme=tokyonight" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Siam-AR&theme=nord_dark" width="32%" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Siam-AR&theme=tokyonight" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Siam-AR&theme=nord_dark" width="32%" />
 
 <br>
 
