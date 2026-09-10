@@ -47,7 +47,7 @@
 
 <div align="center">
 
-## <code><a href="https://github.com/siam-ar" style="color: #38BDF8; text-decoration: none; font-weight: 700;">PROGRAMMING LANGUAGES</a></code>
+## <code style="font-size: 1.45em; padding: 4px 12px;"><a href="https://github.com/siam-ar" style="color: #38BDF8; text-decoration: none !important; border-bottom: none; font-weight: 800;">PROGRAMMING LANGUAGES</a></code>
 <p align="center">
   <img src="./icons/js.svg" width="70" height="70" alt="JavaScript" />
   <img src="./icons/ts.svg" width="70" height="70" alt="TypeScript" />
@@ -58,7 +58,7 @@
 
 <br>
 
-## <code><a href="https://github.com/siam-ar" style="color: #38BDF8; text-decoration: none; font-weight: 700;">FRONTEND</a></code>
+## <code style="font-size: 1.45em; padding: 4px 12px;"><a href="https://github.com/siam-ar" style="color: #38BDF8; text-decoration: none !important; border-bottom: none; font-weight: 800;">FRONTEND</a></code>
 <p align="center">
 
   <img src="./icons/html.svg" width="70" height="70" alt="HTML5" />
@@ -70,7 +70,7 @@
 
 <br>
 
-## <code><a href="https://github.com/siam-ar" style="color: #38BDF8; text-decoration: none; font-weight: 700;">BACKEND</a></code>
+## <code style="font-size: 1.45em; padding: 4px 12px;"><a href="https://github.com/siam-ar" style="color: #38BDF8; text-decoration: none !important; border-bottom: none; font-weight: 800;">BACKEND</a></code>
 <p align="center">
   <img src="./icons/nodejs.svg" width="70" height="70" alt="Node.js" />
   <img src="./icons/express.svg" width="70" height="70" alt="Express.js" />
@@ -78,7 +78,7 @@
 
 <br>
 
-## <code><a href="https://github.com/siam-ar" style="color: #38BDF8; text-decoration: none; font-weight: 700;">DATABASES & ORMS</a></code>
+## <code style="font-size: 1.45em; padding: 4px 12px;"><a href="https://github.com/siam-ar" style="color: #38BDF8; text-decoration: none !important; border-bottom: none; font-weight: 800;">DATABASES & ORMS</a></code>
 <p align="center">
   <img src="./icons/mongodb.svg" width="70" height="70" alt="MongoDB" />
   <img src="./icons/postgres.svg" width="70" height="70" alt="PostgreSQL" />
@@ -87,7 +87,7 @@
 
 <br>
 
-## <code><a href="https://github.com/siam-ar" style="color: #38BDF8; text-decoration: none; font-weight: 700;">AUTH & SECURITY</a></code>
+## <code style="font-size: 1.45em; padding: 4px 12px;"><a href="https://github.com/siam-ar" style="color: #38BDF8; text-decoration: none !important; border-bottom: none; font-weight: 800;">AUTH & SECURITY</a></code>
 <p align="center">
   <img src="./icons/jwt.svg" width="80" height="80" alt="JWT" />
   <img src="./icons/bycrypt.svg" width="80" height="80" alt="bycrypt" />
@@ -97,7 +97,7 @@
 
 <br>
 
-## <code><a href="https://github.com/siam-ar" style="color: #38BDF8; text-decoration: none; font-weight: 700;">DEVELOPER TOOLS</a></code>
+## <code style="font-size: 1.45em; padding: 4px 12px;"><a href="https://github.com/siam-ar" style="color: #38BDF8; text-decoration: none !important; border-bottom: none; font-weight: 800;">DEVELOPER TOOLS</a></code>
 <p align="center">
 <!-- Version Control -->
 <img src="./icons/git.svg" width="70" height="70" alt="Git" />
@@ -127,7 +127,7 @@
 
 <div align="center">
 
-## <code><a href="https://github.com/siam-ar/skillSwap-client" style="color: #38BDF8; text-decoration: none; font-weight: 700;">FEATURED PROJECT</a></code>
+## <code style="font-size: 1.45em; padding: 4px 12px;"><a href="https://github.com/siam-ar/skillSwap-client" style="color: #38BDF8; text-decoration: none !important; border-bottom: none; font-weight: 800;">FEATURED PROJECT</a></code>
 
 <br>
 
@@ -141,10 +141,10 @@
 <!-- ============ Modern, Flat-Style Call-to-Actions ============ -->
 <div align="center">
   <br>
-  <a href="https://skill-swap-client-a10.vercel.app" style="text-decoration: none; margin: 0 10px;" target="_blank">
+  <a href="https://skill-swap-client-a10.vercel.app" style="text-decoration: none !important; margin: 0 10px;" target="_blank">
     <img src="https://img.shields.io/badge/%20Live%20Demo-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo">
   </a>
-  <a href="https://github.com/siam-ar/skillSwap-client" style="text-decoration: none; margin: 0 10px;" target="_blank">
+  <a href="https://github.com/siam-ar/skillSwap-client" style="text-decoration: none !important; margin: 0 10px;" target="_blank">
     <img src="https://img.shields.io/badge/%20Source%20Code-000?style=for-the-badge&logo=github&logoColor=white" alt="Source Code">
   </a>
   <br>
@@ -167,7 +167,7 @@
 
 <div align="center">
 
-## <code><a href="https://github.com/siam-ar/skillSwap-client" style="color: #38BDF8; text-decoration: none; font-weight: 700;">KEY FEATURES</a></code>
+## <code style="font-size: 1.45em; padding: 4px 12px;"><a href="https://github.com/siam-ar/skillSwap-client" style="color: #38BDF8; text-decoration: none !important; border-bottom: none; font-weight: 800;">KEY FEATURES</a></code>
 
 </div>
 
@@ -204,7 +204,7 @@
 
 <div align="center">
 
-## <code><a href="https://github.com/siam-ar/skillSwap-client" style="color: #38BDF8; text-decoration: none; font-weight: 700;">ARCHITECTURE &amp; TECH STACK</a></code>
+## <code style="font-size: 1.45em; padding: 4px 12px;"><a href="https://github.com/siam-ar/skillSwap-client" style="color: #38BDF8; text-decoration: none !important; border-bottom: none; font-weight: 800;">ARCHITECTURE &amp; TECH STACK</a></code>
 
 </div>
 
