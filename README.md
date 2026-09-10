@@ -159,7 +159,6 @@
 
 </div>
 
-<br>
 <hr style="border-color: rgba(255,255,255,0.1);">
 <br>
 
@@ -196,7 +195,6 @@
   </tr>
 </table>
 
-<br>
 <hr style="border-color: rgba(255,255,255,0.1);">
 <br>
 
@@ -221,7 +219,7 @@
     <img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,express,mongodb,firebase,tailwind&theme=dark" alt="Tech Stack Icons" />
   </a>
 
-  <br><br>
+  <br>
 
   <!-- Structured Technology Breakdown -->
   <table width="100%" style="border: none; text-align: left; margin-top: 10px;">
@@ -245,8 +243,6 @@
 
 </div>
 <!-- ============ MASTER BORDER CONTAINER END ============ -->
-
-<br>
 <hr>
 
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32"> GitHub Statistics
@@ -263,7 +259,7 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Siam-AR&theme=github_dark" width="32%" />
 
-<br><br>
+<br>
 
 </div>
 
